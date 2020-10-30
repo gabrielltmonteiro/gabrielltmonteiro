@@ -4,10 +4,10 @@
 
 Olá, eu sou o Gabe!
 
-- 📚 Estudante de Sistemas de Informação pela Universidade do Sul de Santa Catarina - UNISUL
-- 🧲 Tenho um [Blog](https://systemgang.blogspot.com) 
-- 🦏 Eu estou focando meus estudos em Java e na trindade do front-end (HTML5, CSS3 e JavaScript).
-- 🎥 Faço lives na [Twitch](https://www.twitch.tv/system_gang)
+  📚 Estudante de Sistemas de Informação pela Universidade do Sul de Santa Catarina - UNISUL
+  🧲 Tenho um [Blog](https://systemgang.blogspot.com) 
+  🐗 Atualmente estou focando meus estudos em Java, HTML5, CSS3 e JS.
+  🎥 Faço lives na [Twitch](https://www.twitch.tv/system_gang)
 
 <p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&show_icons=true&theme=bluewhite" /></a>
