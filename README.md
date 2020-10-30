@@ -5,16 +5,16 @@
 <h3>Olá, eu sou o Gabe!</h3>
 <ul>
   <li>
-    📚 Estudante de Sistemas de Informação pela Universidade do Sul de Santa Catarina - UNISUL
+    📚 Graduando em Sistemas de Informação na UNISUL
   </li>
   <li>
-    🐗 Atualmente meus estudos estão focados em Java, HTML5, CSS3 e JS.
+    🐗 Atualmente meus estudos são focados em Java, HTML5, CSS3 e JS.
   </li>
   <li>
-    📝 Escrevo neste <a href="https://systemgang.blogspot.com">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.
+    📝 Escrevo neste <a href="https://systemgang.blogspot.com" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.
   </li>
   <li>
-   🎥 E faço lives na <a href="https://www.twitch.tv/system_gang">Twitch</a>
+   🎥 E faço lives na <a href="https://www.twitch.tv/system_gang" title="Roxinha">Twitch</a>
   </li>
  </ul>
 
