@@ -3,7 +3,7 @@
 
 
 
-###Olá, eu sou o Gabe!
+<h3>Olá, eu sou o Gabe!</h3>
 
 - 📚 Estudante de Sistemas de Informação pela Universidade do Sul de Santa Catarina - UNISUL
 - 🐗 Atualmente meus estudos estão focados em Java, HTML5, CSS3 e JS.
