@@ -7,8 +7,8 @@ Olá, eu sou o Gabe!
 
 - 📚 Estudante de Sistemas de Informação pela Universidade do Sul de Santa Catarina - UNISUL
 - 🐗 Atualmente meus estudos estão focados em Java, HTML5, CSS3 e JS.
-- 📝 Escrevo neste [Blog](https://systemgang.blogspot.com), pois tenho a visão de que o conhecimento deve ser passado adiante.
-- 🎥 Faço lives na [Twitch](https://www.twitch.tv/system_gang)
+- 📝 Escrevo neste [Blog](https://systemgang.blogspot.com), porque o conhecimento deve ser compartilhado.
+- 🎥 E faço lives na [Twitch](https://www.twitch.tv/system_gang)
 
 
 <p align="center"> 
