@@ -1,13 +1,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gltm-jrsoftwaredeveloper/)
+[![Youtube](https://img.shields.io/badge/-YouTube-c14438?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)](https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)
 [<img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me" />](https://github.com/gabrielltmonteiro) 
 
 
 Olá, eu sou o Gabe!
 
 - 📚 Estudante de Sistemas de Informação pela Universidade do Sul de Santa Catarina - UNISUL
-- 🧲 Tenho um [Blog](https://systemgang.blogspot.com) 
-- 🐗 Atualmente estou focando meus estudos em Java, HTML5, CSS3 e JS.
-- 🎥 Faço lives na [Twitch](https://www.twitch.tv/system_gang)
+- 🐗 Atualmente meus estudos estão focados em Java, HTML5, CSS3 e JS.
+- 🧲 Escrevo neste [Blog](https://systemgang.blogspot.com), pois tenho a visão de que o conhecimento deve ser passado adiante.
+- 🎥 Faço lives estudando, na [Twitch](https://www.twitch.tv/system_gang) e tenho um
 
 <p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&show_icons=true&theme=bluewhite" /></a>
