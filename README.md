@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gltm-jrsoftwaredeveloper/)&nbsp; [![Youtube](https://img.shields.io/badge/-YouTube-bb0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)](https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)&nbsp; 
 [<img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me" />](https://github.com/gabrielltmonteiro)&nbsp;
-
+[ferramentas e linguagens](#softwares-e-linguagens)
 
 <!--Html-->
 
@@ -16,6 +16,7 @@
  </ul>
 
 <!--
+[ferramentas e linguagens](#section)
 <a href="#ancora">Âncora HTML</a>     //é possível mesclar html com markdown
 ## <a name=“ancora”><a/>Âncora HTML 
 [Ancora Markdown](#ancora-markdown)   //não aceita acento
@@ -35,7 +36,7 @@
 [//]: # "Markdown"
 [![Twitch: system_gang](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/system_gang)](https://www.twitch.tv/system_gang)
 
-## <a name=“section”><a/>Softwares e Linguagens  
+## Softwares e Linguagens  
 
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)](#)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -47,7 +48,7 @@
 ![Netbeans](https://img.shields.io/badge/-Netbeans-black?style=flat-square&logo=netbeans-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 
-
+<!--<a name=“section”><a/>-->
 
 
 
