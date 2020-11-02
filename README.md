@@ -2,7 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gltm-jrsoftwaredeveloper/)&nbsp; [![Youtube](https://img.shields.io/badge/-YouTube-bb0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)](https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)&nbsp; 
 [<img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me" />](https://github.com/gabrielltmonteiro)&nbsp;
-[pular para baixo](#softwares-e-linguagens)
 
 
 <!--Html-->
@@ -21,9 +20,11 @@
    🎥 E faço lives na <a href="https://www.twitch.tv/system_gang" title="Roxinha">Twitch</a>
   </li>
   <li>
-    👨🏾‍💻 Estas são algumas das ferramentas e linguagens que utilizo 
+    👨🏾‍💻 Veja algumas das [ferramentas e linguagens](#section) que utilizo 
   </li>
  </ul>
+
+
 
 
 <p align="center"> 
@@ -39,6 +40,7 @@
 [//]: # "Markdown"
 [![Twitch: system_gang](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/system_gang)](https://www.twitch.tv/system_gang)
 
+## <a name=“section”><a/> Seção
 ## Softwares e Linguagens 
 
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)](#)
