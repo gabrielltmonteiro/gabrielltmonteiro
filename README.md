@@ -7,28 +7,19 @@
 <!--Html-->
 
 <ul>
-  <li>
-    📚 Graduando em Sistemas de Informação na UNISUL
-  </li>
-  <li>
-    🐗 Atualmente estou focado em Java, HTML5, CSS3 e JS.
-  </li>
-  <li>
-    📝 Escrevo neste <a href="https://systemgang.blogspot.com" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.
-  </li>
-  <li>
-   🎥 E faço lives na <a href="https://www.twitch.tv/system_gang" title="Roxinha">Twitch</a>
-  </li>
-  <li>
-    👨🏾‍💻 Veja algumas das <a href="#section">ferramentas e linguagens</a> que utilizo 
-  </li>
+  <li>📚 Graduando em Sistemas de Informação na UNISUL</li>
+  
+  <li>🐗 Atualmente estou focado em Java, HTML5, CSS3 e JS.</li>
+  <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
+  <li>🎥 E faço lives na <a href="https://www.twitch.tv/system_gang" title="Roxinha">Twitch</a></li>
+  <li>👨🏾‍💻 Veja algumas das <a href="#section">ferramentas e linguagens</a> que utilizo</li>
  </ul>
 
 <!--
 <a href="#ancora">Âncora HTML</a>     //é possível mesclar html com markdown
 ## <a name=“ancora”><a/>Âncora HTML 
 [Ancora Markdown](#ancora-markdown)   //não aceita acento
-## Ancora Markdown 
+## Ancora Markdown 👨🏾‍💻
 -->
 
 <p align="center"> 
@@ -44,7 +35,7 @@
 [//]: # "Markdown"
 [![Twitch: system_gang](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/system_gang)](https://www.twitch.tv/system_gang)
 
-## <a name=“section”><a/>Softwares e Linguagens 
+## <a name=“section”><a/>Softwares e Linguagens  
 
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)](#)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
