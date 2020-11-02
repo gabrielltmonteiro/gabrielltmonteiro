@@ -20,12 +20,16 @@
    🎥 E faço lives na <a href="https://www.twitch.tv/system_gang" title="Roxinha">Twitch</a>
   </li>
   <li>
-    👨🏾‍💻 Veja algumas das [ferramentas e linguagens](#section) que utilizo 
+    👨🏾‍💻 Veja algumas das <a href="#section">ferramentas e linguagens</a> que utilizo 
   </li>
  </ul>
 
-
-
+<!--
+<a href="#ancora">Âncora HTML</a>     //é possível mesclar html com markdown
+## <a name=“ancora”><a/>Âncora HTML 
+[Ancora Markdown](#ancora-markdown)   //não aceita acento
+## Ancora Markdown 
+-->
 
 <p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&show_icons=true&theme=bluewhite" /></a>
@@ -40,8 +44,7 @@
 [//]: # "Markdown"
 [![Twitch: system_gang](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/system_gang)](https://www.twitch.tv/system_gang)
 
-## <a name=“section”><a/> Seção
-## Softwares e Linguagens 
+## <a name=“section”><a/>👨🏾‍💻 Softwares e Linguagens 
 
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)](#)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
