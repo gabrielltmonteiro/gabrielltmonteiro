@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gltm-jrsoftwaredeveloper/)&nbsp; [![Youtube](https://img.shields.io/badge/-YouTube-bb0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)](https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)&nbsp; 
 [<img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me" />](https://github.com/gabrielltmonteiro)&nbsp;
-[ferramentas e linguagens](#softwares-e-linguagens)
+
 
 <!--Html-->
 
@@ -12,15 +12,17 @@
   <li>🐗 Atualmente estou focado em Java, HTML5, CSS3 e JS.</li>
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
   <li>🎥 E faço lives na <a href="https://www.twitch.tv/system_gang" title="Roxinha">Twitch</a></li>
-  <li>👨🏾‍💻 Veja algumas das <a href="#section">ferramentas e linguagens</a> que utilizo</li>
- </ul>
+</ul>
+
+- 👨🏾‍💻 Veja algumas das [ferramentas e linguagens](#softwares-e-linguagens) que utilizo 
 
 <!--
-[ferramentas e linguagens](#section)
-<a href="#ancora">Âncora HTML</a>     //é possível mesclar html com markdown
-## <a name=“ancora”><a/>Âncora HTML 
-[Ancora Markdown](#ancora-markdown)   //não aceita acento
-## Ancora Markdown 👨🏾‍💻
+[Âncora Markdown](#ancora-markdown)          //Âncora Markdown
+## Ancora Markdown 
+[Âncora Markdown](#section)                  //Âncora Markdown & HTML
+## <a name=“section”><a/> Âncora Markdown
+<a href="#ancora">Âncora HTML</a>            //Âncora HTML
+## <a name=“ancora”><a/> Âncora HTML 
 -->
 
 <p align="center"> 
