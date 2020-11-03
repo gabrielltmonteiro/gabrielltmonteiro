@@ -22,7 +22,7 @@
 ## <a name=“ancora”><a/> Âncora HTML 
 -->
 
-* 👨🏾‍💻 Veja também, algumas das tecnologias que utilizo, em [softwares e linguagens](#softwares-e-linguagens) e produ
+* 👨🏾‍💻 Veja também, algumas das tecnologias que utilizo, em [softwares e linguagens](#softwares-e-linguagens-de-desenvolvimento) e [ferramentas em geral](#ferramentas-em-geral)
 
 <p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&show_icons=true&theme=bluewhite" /></a>
@@ -52,10 +52,9 @@
   <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse" title="Eclipse" width="auto" height="28px">
 </p>
 
-## Outras Ferramentas
+## Ferramentas em Geral
 
 <p align="center">
-  
   <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white"/>
 </p>
 
