@@ -35,7 +35,6 @@
  </p>
 
 [//]: # "Markdown"
-[![Twitch: system_gang](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/system_gang)](https://www.twitch.tv/system_gang)
 
 ## Softwares e Linguagens de Desenvolvimento 
 
@@ -48,9 +47,9 @@
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"/>  
   <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" title="VSCode" width="auto" height="28px">
-  <img src="https://img.shields.io/badge/-Netbeans-black?style=flat-square&logo=netbeans-ide&logoColor=white" alt="Netbeans" title="Netbeans" width="auto" height="28px">
-  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse" title="Eclipse" width="auto" height="28px">
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" title="VSCode"/>
+  <img src="https://img.shields.io/badge/-Netbeans-black?style=for-the-badge&logo=netbeans-ide&logoColor=white" alt="Netbeans" title="Netbeans" width="auto" height="28px">
+  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" title="Eclipse" width="auto" height="28px">
 </p>
 
 ## Ferramentas em Geral
@@ -59,31 +58,11 @@
   
 </p>
 
-<!--<a name=“section”><a/>-->
-<!--
+<!--<a name=“section”><a/>
+--Linguagens que mais utilizei no GitHub
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielltmonteiro&theme=blue-white"></img>
 </p>
--->
-
-
-
-
-
-
-
-
-<!--
-**gabrielltmonteiro/gabrielltmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...       - 🔭 Atualmente estou trabalhando em ...
-- 🌱 I’m currently learning ...         - 🌱 Atualmente estou aprendendo ...
-- 👯 I’m looking to collaborate on ...  - 👯 Atualmente estou  colaborando ...
-- 🤔 I’m looking for help with ...      - 🤔 Estou procurando por ajuda com ...
-- 💬 Ask me about ...                   - 💬 Me pergunto sobre ...
-- 📫 How to reach me: ...               - 📫 Como me encontrar: ...
-- 😄 Pronouns: ...                      - 😄 ?Pronomes?: ...
-- ⚡ Fun fact: ...                      - ⚡ Fatos divertidos: ... 
+--
+trabalhando em.. aprendendo a.. colaborando com.. procurando ajuda para.. me pergunte sobre.. me encontre.. fatos divertidos..
 -->
