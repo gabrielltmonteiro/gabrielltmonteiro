@@ -22,7 +22,7 @@
 ## <a name=“ancora”><a/> Âncora HTML 
 -->
 
-* 👨🏾‍💻 Veja também, algumas das tecnologias que utilizo, em [softwares e linguagens](#softwares-e-linguagens) 
+* 👨🏾‍💻 Veja também, algumas das tecnologias que utilizo, em [softwares e linguagens](#softwares-e-linguagens) e produ
 
 <p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&show_icons=true&theme=bluewhite" /></a>
@@ -37,18 +37,26 @@
 [//]: # "Markdown"
 [![Twitch: system_gang](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/system_gang)](https://www.twitch.tv/system_gang)
 
-## Softwares e Linguagens  
+## Softwares e Linguagens de Desenvolvimento 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" alt="Java" title="Java" width="auto" height="25px">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" title="HTML5" width="auto" height="25px">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" title="CSS3" width="auto" height="25px">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" title="JavaScript" width="auto" height="25px">
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" title="Git" width="auto" height="25px">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" title="GitHub" width="auto" height="25px">
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" title="VSCode" width="auto" height="25px">
-  <img src="https://img.shields.io/badge/-Netbeans-black?style=flat-square&logo=netbeans-ide&logoColor=white" alt="Netbeans" title="Netbeans" width="auto" height="25px">
-  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse" title="Eclipse" width="auto" height="25px">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java"/>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" title="VSCode" width="auto" height="28px">
+  <img src="https://img.shields.io/badge/-Netbeans-black?style=flat-square&logo=netbeans-ide&logoColor=white" alt="Netbeans" title="Netbeans" width="auto" height="28px">
+  <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse" title="Eclipse" width="auto" height="28px">
+</p>
+
+## Outras Ferramentas
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white"/>
 </p>
 
 <!--<a name=“section”><a/>-->
