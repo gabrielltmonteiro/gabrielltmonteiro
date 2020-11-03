@@ -39,21 +39,21 @@
 
 ## Softwares e Linguagens  
 
-[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)]()
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]()
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]()
-[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)]()
-[![Netbeans](https://img.shields.io/badge/-Netbeans-black?style=flat-square&logo=netbeans-idea&logoColor=white)]()
-[![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)]()
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Netbeans](https://img.shields.io/badge/-Netbeans-black?style=flat-square&logo=netbeans-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 
 <!--<a name=“section”><a/>-->
-
-
-
-
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielltmonteiro&theme=blue-white"></img>
+</p>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 
 
 
