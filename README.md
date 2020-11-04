@@ -19,6 +19,7 @@
 -->
 
 * 👨🏾‍💻 Veja também, algumas das tecnologias que utilizo, em [softwares e linguagens](#softwares-e-linguagens-de-desenvolvimento) e [ferramentas em geral](#ferramentas-em-geral)
+* 🌠 E algumas [linguagens que vi brevemente](#contato-rápido)
 
 <p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&show_icons=true&theme=bluewhite" /></a>
@@ -32,7 +33,7 @@
 
 [//]: # "Markdown"
 
-## Softwares e Linguagens de Desenvolvimento 
+## Softwares e Linguagens de Desenvolvimento
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java"/>
@@ -49,33 +50,32 @@
   <img src="https://img.shields.io/badge/wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>   
   <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glit" title="Glit"/> 
   <img src="https://img.shields.io/badge/game%20maker%20-%233333FF.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Glit" title="Glit"/>                                                                                                                                          
-</p><br>
+</p>
                                                                                                                                                     
+<!--<br>                                                                                                                                                                                                                                                                                                        
 ### Java                                                                                                                                                
-
 Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias como Algoritmo e Estrutura de Dados, fiz um curso com duração de 60 horas
-
- [Contato](#contato-rápido) 
-
-                                                                                                                                                    
+-->                                                                                                                                                   
 ## Ferramentas em Geral
 
-<p align="center">
+<p align="center"><!-- DroidCam, VoiceMeeter Banana e Audacity. -->
   <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Fireworks%20-%23F7DF1E.svg?&style=for-the-badge&logo=adobe&logoColor=323330"/>
   <img src="https://img.shields.io/badge/Streamlabs%20-%231fe9c8.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OBS%20Studio-%23000.svg?&style=for-the-badge&logo=obs%20studio&logoColor=fff"/>
   <img src="https://img.shields.io/badge/trello%20-%2300b8ee.svg?&style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/evernote%20-%233aae00.svg?&style=for-the-badge&logo=evernote&logoColor=ffffff"/>
- <!-- DroidCam, VoiceMeeter Banana e Audacity. -->
-</p><br>
+</p><br><br>
 
 ## Contato Rápido
+<p align="center"><!-- C, PHP e Phyton -->
+  <img src="https://img.shields.io/badge/programming%20language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+</p><br><br>
 <!--<a name=“section”><a/>
---Linguagens que mais utilizei no GitHub
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielltmonteiro&theme=blue-white"></img>
 </p>
---
 trabalhando em.. aprendendo a.. colaborando com.. procurando ajuda para.. me pergunte sobre.. me encontre.. fatos divertidos..
 -->
