@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/game%20maker%20-%233333FF.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Glit" title="Glit"/>                                                                                                                                          
 </p><br>
 
-## Ferramentas de Design e Streaming
+## Ferramentas em Geral
 
 <p align="center">
   Photoshop, Fireworks, StreamLabs, OBS Studio, Twitch Studio e DroidCam.
