@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"/>  
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" title="VSCode"/>
-  <img src="https://img.shields.io/badge/-Netbeans-black?style=for-the-badge&logo=netbeans-ide&logoColor=white" alt="Netbeans" title="Netbeans"/>
+  <img src="https://img.shields.io/badge/-Netbeans-42588f?style=for-the-badge&logo=netbeans-ide&logoColor=white" alt="Netbeans" title="Netbeans"/>
   <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" title="Eclipse"/">    
   <img src="https://img.shields.io/badge/blogger%20-%23ff5722.svg?&style=for-the-badge&logo=blogger&logoColor=white"/>
   <img src="https://img.shields.io/badge/wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>   
@@ -54,7 +54,13 @@
 ## Ferramentas em Geral
 
 <p align="center">
-  Photoshop, Fireworks, StreamLabs, OBS Studio, Twitch Studio e DroidCam.
+  <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Fireworks%20-%23F7DF1E.svg?&style=for-the-badge&logo=adobe&logoColor=323330"/>
+  <img src="https://img.shields.io/badge/Streamlabs%20-%231fe9c8.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OBS%20Studio-%23000.svg?&style=for-the-badge&logo=obs%20studio&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/trello%20-%2300b8ee.svg?&style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/evernote%20-%233aae00.svg?&style=for-the-badge&logo=evernote&logoColor=ffffff"/>
+ <!-- DroidCam, VoiceMeeter Banana e Audacity. -->
 </p>
 
 <!--<a name=“section”><a/>
