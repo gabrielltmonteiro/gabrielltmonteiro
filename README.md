@@ -50,7 +50,14 @@
   <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glit" title="Glit"/> 
   <img src="https://img.shields.io/badge/game%20maker%20-%233333FF.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Glit" title="Glit"/>                                                                                                                                          
 </p><br>
+                                                                                                                                                    
+### Java                                                                                                                                                
 
+Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias como Algoritmo e Estrutura de Dados, fiz um curso com duração de 60 horas
+
+ [Contato](#contato-rápido) 
+
+                                                                                                                                                    
 ## Ferramentas em Geral
 
 <p align="center">
@@ -61,8 +68,9 @@
   <img src="https://img.shields.io/badge/trello%20-%2300b8ee.svg?&style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/evernote%20-%233aae00.svg?&style=for-the-badge&logo=evernote&logoColor=ffffff"/>
  <!-- DroidCam, VoiceMeeter Banana e Audacity. -->
-</p>
+</p><br>
 
+## Contato Rápido
 <!--<a name=“section”><a/>
 --Linguagens que mais utilizei no GitHub
 <p align="center"> 
