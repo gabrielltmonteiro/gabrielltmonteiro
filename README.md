@@ -68,6 +68,7 @@ Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias
 </p><br><br>
 
 ## Contato Rápido
+
 <p align="center"><!-- C, PHP e Phyton -->
   <img src="https://img.shields.io/badge/programming%20language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python"/>
