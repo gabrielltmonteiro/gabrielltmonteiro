@@ -9,14 +9,6 @@
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
   <li>🎥 E faço lives na <a href="https://www.twitch.tv/system_gang" title="Roxinha">Twitch</a></li>
  </ul>
-<!--
-[Âncora Markdown](#ancora-markdown)          //Âncora Markdown
-## Ancora Markdown 
-[Âncora Markdown](#section)                  //Âncora Markdown & HTML
-## <a name=“section”><a/> Âncora Markdown
-<a href="#ancora">Âncora HTML</a>            //Âncora HTML
-## <a name=“ancora”><a/> Âncora HTML 
--->
 
 * 👨🏾‍💻 Veja também, algumas das tecnologias que utilizo, em [softwares e linguagens](#softwares-e-linguagens-de-desenvolvimento) e [ferramentas em geral](#ferramentas-em-geral)
 * 🌠 E algumas [linguagens que vi brevemente](#contato-rápido)
@@ -29,9 +21,7 @@
  <a href="https://senhordesenvolvedor.wordpress.com/"><img src="https://img.shields.io/twitter/url?color=white&label=Sr.%20Desenvolvedor&logo=wordpress&style=plastic&url=https%3A%2F%2Fsenhordesenvolvedor.wordpress.com%2F"></a>&nbsp;
  <a href="https://twitch.tv/system_gang"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/system_gang?color=d60087&label=Live&logo=twitch&logoColor=white"></a>&nbsp;
  <a href="https://discord.gg/Bu78wBZ"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a>
- </p><br>
-
-[//]: # "Markdown"
+ </p><br><br>
 
 ## Softwares e Linguagens de Desenvolvimento
 
@@ -50,7 +40,7 @@
   <img src="https://img.shields.io/badge/wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>   
   <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glit" title="Glit"/> 
   <img src="https://img.shields.io/badge/game%20maker%20-%233333FF.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Glit" title="Glit"/>                                                                                                                                          
-</p>
+</p><br><br>
                                                                                                                                                     
 <!--<br>                                                                                                                                                                                                                                                                                                        
 ### Java                                                                                                                                                
@@ -74,9 +64,22 @@ Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 </p><br><br>
+
+
 <!--<a name=“section”><a/>
+--
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielltmonteiro&theme=blue-white"></img>
 </p>
+--
 trabalhando em.. aprendendo a.. colaborando com.. procurando ajuda para.. me pergunte sobre.. me encontre.. fatos divertidos..
+--
+[//]: # "Markdown"
+--
+[Âncora Markdown](#ancora-markdown)          //Âncora Markdown
+## Ancora Markdown 
+[Âncora Markdown](#section)                  //Âncora Markdown & HTML
+## <a name=“section”><a/> Âncora Markdown
+<a href="#ancora">Âncora HTML</a>            //Âncora HTML
+## <a name=“ancora”><a/> Âncora HTML 
 -->
