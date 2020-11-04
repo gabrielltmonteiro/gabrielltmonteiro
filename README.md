@@ -28,7 +28,7 @@
  <a href="https://senhordesenvolvedor.wordpress.com/"><img src="https://img.shields.io/twitter/url?color=white&label=Sr.%20Desenvolvedor&logo=wordpress&style=plastic&url=https%3A%2F%2Fsenhordesenvolvedor.wordpress.com%2F"></a>&nbsp;
  <a href="https://twitch.tv/system_gang"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/system_gang?color=d60087&label=Live&logo=twitch&logoColor=white"></a>&nbsp;
  <a href="https://discord.gg/Bu78wBZ"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a>
- </p>
+ </p><br>
 
 [//]: # "Markdown"
 
@@ -49,12 +49,12 @@
   <img src="https://img.shields.io/badge/wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>   
   <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glit" title="Glit"/> 
   <img src="https://img.shields.io/badge/game%20maker%20-%233333FF.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Glit" title="Glit"/>                                                                                                                                          
-</p>
+</p><br>
 
-## Ferramentas em Geral
+## Ferramentas de Design e Streaming
 
 <p align="center">
-  
+  Photoshop, Fireworks, StreamLabs, OBS Studio, Twitch Studio e DroidCam.
 </p>
 
 <!--<a name=“section”><a/>
