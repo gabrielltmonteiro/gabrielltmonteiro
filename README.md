@@ -1,4 +1,4 @@
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gltm-jrsoftwaredeveloper/)&nbsp; [![Youtube](https://img.shields.io/badge/-YouTube-bb0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)](https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)&nbsp; 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gltm-jrsoftwaredeveloper/)&nbsp; [![Youtube](https://img.shields.io/badge/-YouTube-bb0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)&nbsp; 
 [<img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me" />](https://github.com/gabrielltmonteiro)
 
 <h2 id="1">Olá, eu sou o Gabe!</h2><br>
@@ -61,7 +61,6 @@ Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias
 
 <h2 id="4">Contato Rápido</h2> <br> 
   
-<h2 name="antiga">Antiga Name</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/programming%20language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
@@ -84,5 +83,5 @@ trabalhando em.. aprendendo a.. colaborando com.. procurando ajuda para.. me per
 ## <a name=“section”><a/> Âncora Markdown
 <a href="#ancora">Âncora HTML</a>            //Âncora HTML
 <h2 id="ancora">Âncora HTML</h2>
-//<h2 name="ancora">Âncora HTML</h2> //Funciona com name também
+//<h2 name="ancora">Âncora HTML</h2>         //Funciona Também
 -->
