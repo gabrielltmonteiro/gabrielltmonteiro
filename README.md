@@ -4,7 +4,7 @@
   <a href="https://github.com/gabrielltmonteiro" title="" alt=""><img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me"></a> 
 </p>
 
-<h1 id="1">Olá, eu sou o Gabe!</h1>
+<h1 id="1">:octocat:Olá, eu sou o Gabe!</h1>
 <ul>
   <li>📚 Graduando em Sistemas de Informação na UNISUL.</li>
   <li>🐗 Atualmente estou focado em Java, HTML5, CSS3 e JS.</li>
@@ -31,65 +31,40 @@
   <p align="center">
     <a href="# ">
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java"/>
-    </a>
-    <a href="# ">
+      <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
       <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
-    </a>
-    <a href="# ">
       <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
-    </a>
-    <a href="# ">
       <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript" title="JavaScript"/>
-    </a>
-    <a href="# ">
       <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" title="Markdown"/>
-    </a>
-    <a href="# ">
       <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"/>
-    </a>
-    <a href="# ">
-      <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"/></a>  
-    <a href="# ">
-      <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" title="VSCode"/></a>
-    <a href="# ">
-      <img src="https://img.shields.io/badge/-Netbeans-42588f?style=for-the-badge&logo=netbeans-ide&logoColor=white" alt="Netbeans" title="Netbeans"/></a>
-    <a href="# ">
-      <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" title="Eclipse"/></a> 
-    <a href="# ">
-      <img src="https://img.shields.io/badge/repl.it%20-%23e8e6e8.svg?style=for-the-badge&logo=repl.it&logoColor=000" alt="Repl.it" title="Repl.it"/></a>
-    <a href="# ">
-      <img src="https://img.shields.io/badge/blogger%20-%23ff5722.svg?&style=for-the-badge&logo=blogger&logoColor=white"/></a>
-    <a href="# ">
-      <img src="https://img.shields.io/badge/wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/></a>  
-    <a href="# ">
-      <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glit" title="Glit"/></a> 
-    <a href="# ">
-      <img src="https://img.shields.io/badge/game%20maker%20-%233333FF.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Glit" title="Glit"/></a>                                                                                                                                          
+      <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"/>
+      <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" title="VSCode"/>
+      <img src="https://img.shields.io/badge/-Netbeans-42588f?style=for-the-badge&logo=netbeans-ide&logoColor=white" alt="Netbeans" title="Netbeans"/>
+      <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" title="Eclipse"/>
+      <img src="https://img.shields.io/badge/repl.it%20-%23e8e6e8.svg?style=for-the-badge&logo=repl.it&logoColor=000" alt="Repl.it" title="Repl.it"/>
+      <img src="https://img.shields.io/badge/blogger%20-%23ff5722.svg?&style=for-the-badge&logo=blogger&logoColor=white"/>
+      <img src="https://img.shields.io/badge/wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>
+      <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glit" title="Glit"/>
+      <img src="https://img.shields.io/badge/game%20maker%20-%233333FF.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Glit" title="Glit"/>                                                                                                                                         
   </p><br><br>                                                                                                                                                    
 
   <h2 id="3">Outras Ferramentas</h2> 
   <p align="center"><!-- Booking, DroidCam, VoiceMeeter Banana e Audacity. -->
     <a href="# ">
-      <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" title="Photoshop"/></a>  
-    <a href="# ">
-      <img src="https://img.shields.io/badge/Fireworks%20-%23F7DF1E.svg?&style=for-the-badge&logo=adobe&logoColor=323330" alt="Fireworks" title="Fireworks"/></a>
-    <a href="# ">
-      <img src="https://img.shields.io/badge/Streamlabs%20-%231fe9c8.svg?&style=for-the-badge" alt="Streamlabs" title="Streamlabs"/></a>
-    <a href="# ">
-      <img src="https://img.shields.io/badge/OBS%20Studio-%23000.svg?&style=for-the-badge&logo=obs%20studio&logoColor=fff" alt="OBS Studio" title="OBS Studio"/></a>
-    <a href="# ">
-      <img src="https://img.shields.io/badge/trello%20-%2300b8ee.svg?&style=for-the-badge&logo=trello&logoColor=white" alt="Trello" title="Trello"/></a>
-    <a href="# ">
-      <img src="https://img.shields.io/badge/evernote%20-%233aae00.svg?&style=for-the-badge&logo=evernote&logoColor=ffffff" alt="Evernote" title="Evernote"/></a>
+      <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" title="Photoshop"/>
+      <img src="https://img.shields.io/badge/Fireworks%20-%23F7DF1E.svg?&style=for-the-badge&logo=adobe&logoColor=323330" alt="Fireworks" title="Fireworks"/>
+      <img src="https://img.shields.io/badge/Streamlabs%20-%231fe9c8.svg?&style=for-the-badge" alt="Streamlabs" title="Streamlabs"/>
+      <img src="https://img.shields.io/badge/OBS%20Studio-%23000.svg?&style=for-the-badge&logo=obs%20studio&logoColor=fff" alt="OBS Studio" title="OBS Studio"/>
+      <img src="https://img.shields.io/badge/trello%20-%2300b8ee.svg?&style=for-the-badge&logo=trello&logoColor=white" alt="Trello" title="Trello"/>
+      <img src="https://img.shields.io/badge/evernote%20-%233aae00.svg?&style=for-the-badge&logo=evernote&logoColor=ffffff" alt="Evernote" title="Evernote"/>
+     </a>
   </p><br><br>
 
   <h2 id="4">Contato Rápido</h2> 
   <p align="center">
     <a href="# ">
-      <img src="https://img.shields.io/badge/programming%20language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação C"/></a>  
-    <a href="# ">
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP"/></a>
-    <a href="# ">
+      <img src="https://img.shields.io/badge/programming%20language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação C"/>
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP"/>
       <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python" alt="Python" title="Python"/>
     </a>
   </p><br><br>
@@ -110,13 +85,19 @@
 
 <!--<a name=“section”><a/>
 --
-<p align="center"> 
+<p align="center"> <!--Minhas Linguagens Mais Usadas no GitHub -- >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielltmonteiro&theme=blue-white"></img>
 </p>
+<p align="center"> <!--Contador de Views do Perfil-- >
+  <img src="https://komarev.com/ghpvc/?username=gabrielltmonteiro" alt="gabrielltmonteiro" /> <!---- >
+</p>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <!--ícones-- >
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="gabriel" height="20" width="20" /></a>
 --
 trabalhando em.. aprendendo a.. colaborando com.. procurando ajuda para.. me pergunte sobre.. me encontre.. fatos divertidos..
 --
-[//]: # "Markdown"
+[//]: # "Markdown" 
+<!--HTML-- >
 --
 [Âncora Markdown](#ancora-markdown)          //Âncora Markdown
 ## Ancora Markdown 
