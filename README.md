@@ -4,8 +4,7 @@
   <a href="https://github.com/gabrielltmonteiro" title="" alt=""><img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me"></a> 
 </p>
 
-<h1 id="1">Olá, eu sou o Gabe!</h1> <br>
-
+<h1 id="1">Olá, eu sou o Gabe!</h1>
 <ul>
   <li>📚 Graduando em Sistemas de Informação na UNISUL.</li>
   <li>🐗 Atualmente estou focado em Java, HTML5, CSS3 e JS.</li>
@@ -26,8 +25,7 @@
    <a href="https://discord.gg/Bu78wBZ"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a>
 </p> <br>
 
-<h2 id="2">Softwares e Linguagens de Desenvolvimento</h2> <br>
-
+<h2 id="2">Softwares e Linguagens de Desenvolvimento</h2> 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java"/>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
@@ -50,8 +48,7 @@
 Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias como Algoritmo e Estrutura de Dados, fiz um curso com duração de 60 horas
 -->    
 
-<h2 id="3">Ferramentas em Geral</h2> <br> 
-  
+<h2 id="3">Ferramentas em Geral</h2> 
 <p align="center"><!-- DroidCam, VoiceMeeter Banana e Audacity. -->
   <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Fireworks%20-%23F7DF1E.svg?&style=for-the-badge&logo=adobe&logoColor=323330"/>
@@ -61,8 +58,7 @@ Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias
   <img src="https://img.shields.io/badge/evernote%20-%233aae00.svg?&style=for-the-badge&logo=evernote&logoColor=ffffff"/>
 </p><br><br>
 
-<h2 id="4">Contato Rápido</h2> <br> 
-  
+<h2 id="4">Contato Rápido</h2> 
 <p align="center">
   <img src="https://img.shields.io/badge/programming%20language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
