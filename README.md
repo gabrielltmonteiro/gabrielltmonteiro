@@ -46,19 +46,19 @@
 
 <h2 id="3">Outras Ferramentas</h2> 
 <p align="center"><!-- Booking, DroidCam, VoiceMeeter Banana e Audacity. -->
-  <a href="# "><img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></a>  
-  <a href="# "><img src="https://img.shields.io/badge/Fireworks%20-%23F7DF1E.svg?&style=for-the-badge&logo=adobe&logoColor=323330"/></a>
-  <a href="# "><img src="https://img.shields.io/badge/Streamlabs%20-%231fe9c8.svg?&style=for-the-badge"/></a>
-  <a href="# "><img src="https://img.shields.io/badge/OBS%20Studio-%23000.svg?&style=for-the-badge&logo=obs%20studio&logoColor=fff"/></a>
-  <a href="# "><img src="https://img.shields.io/badge/trello%20-%2300b8ee.svg?&style=for-the-badge&logo=trello&logoColor=white"/></a>
-  <a href="# "><img src="https://img.shields.io/badge/evernote%20-%233aae00.svg?&style=for-the-badge&logo=evernote&logoColor=ffffff"/></a>
+  <a href="# "><img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" title="Photoshop"/></a>  
+  <a href="# "><img src="https://img.shields.io/badge/Fireworks%20-%23F7DF1E.svg?&style=for-the-badge&logo=adobe&logoColor=323330" alt="Fireworks" title="Fireworks"/></a>
+  <a href="# "><img src="https://img.shields.io/badge/Streamlabs%20-%231fe9c8.svg?&style=for-the-badge" alt="Streamlabs" title="Streamlabs"/></a>
+  <a href="# "><img src="https://img.shields.io/badge/OBS%20Studio-%23000.svg?&style=for-the-badge&logo=obs%20studio&logoColor=fff" alt="OBS Studio" title="OBS Studio"/></a>
+  <a href="# "><img src="https://img.shields.io/badge/trello%20-%2300b8ee.svg?&style=for-the-badge&logo=trello&logoColor=white" alt="Trello" title="Trello"/></a>
+  <a href="# "><img src="https://img.shields.io/badge/evernote%20-%233aae00.svg?&style=for-the-badge&logo=evernote&logoColor=ffffff" alt="Evernote" title="Evernote"/></a>
 </p><br><br>
 
 <h2 id="4">Contato Rápido</h2> 
 <p align="center">
-  <a href="# "><img src="https://img.shields.io/badge/programming%20language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></a>  
-  <a href="# "><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/></a>
-  <a href="# "><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python"/></a>
+  <a href="# "><img src="https://img.shields.io/badge/programming%20language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação C"/></a>  
+  <a href="# "><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP"/></a>
+  <a href="# "><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python" alt="Python" title="Python"/></a>
 </p><br><br>
 
 <!--<a name=“section”><a/>
