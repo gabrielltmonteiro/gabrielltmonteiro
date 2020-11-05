@@ -51,7 +51,7 @@ Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias
 -->                                                                                                                                                   
 ## Ferramentas em Geral
 
-<h2 id=“ancora”>Âncora HTML</h2>
+<h2 id="ancora">Âncora HTML</h2>
 
 <p align="center"><!-- DroidCam, VoiceMeeter Banana e Audacity. -->
   <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>  
