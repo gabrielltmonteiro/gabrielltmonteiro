@@ -1,4 +1,4 @@
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gltm-jrsoftwaredeveloper/)&nbsp; [![Youtube](https://img.shields.io/badge/-YouTube-bb0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)&nbsp; 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gltm-jrsoftwaredeveloper/)&nbsp; [![Youtube](https://img.shields.io/badge/-YouTube-bb0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)&nbsp; 
 [<img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me" />](https://github.com/gabrielltmonteiro)
 
 <h2 id="1">Olá, eu sou o Gabe!</h2><br>
