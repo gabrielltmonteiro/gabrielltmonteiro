@@ -8,7 +8,8 @@
   <li>🐗 Atualmente estou focado em Java, HTML5, CSS3 e JS.</li>
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
   <li>🎥 E faço lives na <a href="https://www.twitch.tv/system_gang" title="Roxinha">Twitch</a></li>
-  <li><a href="ancora">Âncora HTML</a></li>
+  <li><a href="#ancora">Âncora HTML</a></li>
+  <li><a href="#section2">Go to Section 2</a></li>
  </ul>
 
 * 👨🏾‍💻 Veja também, algumas das tecnologias que utilizo, em [softwares e linguagens](#softwares-e-linguagens-de-desenvolvimento) e [ferramentas em geral](#ferramentas-em-geral)
@@ -50,7 +51,8 @@ Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias
 -->                                                                                                                                                   
 ## Ferramentas em Geral
 
-<a name=“ancora”><h2>Âncora HTML</h2><a/>
+<h2 id=“ancora”>Âncora HTML</h2>
+
 <p align="center"><!-- DroidCam, VoiceMeeter Banana e Audacity. -->
   <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Fireworks%20-%23F7DF1E.svg?&style=for-the-badge&logo=adobe&logoColor=323330"/>
@@ -68,7 +70,7 @@ Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python"/>
 </p><br><br>
 
-
+<h2 id="section2">Section 2</h2>
 <!--<a name=“section”><a/>
 --
 <p align="center"> 
