@@ -10,7 +10,7 @@
   <li>🐗 Atualmente estou focado em Java, HTML5, CSS3 e JS.</li>
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
   <li>🎥 E faço lives na <a href="https://www.twitch.tv/system_gang" title="Roxinha">Twitch</a>.</li>
-  <li>👨🏾‍💻 Veja também, algumas das tecnologias que utilizo, em <a href="#2">softwares e linguagens</a> e <a href="#3">ferramentas em geral</a>.</li>
+  <li>👨🏾‍💻 Veja também, algumas das <a href="#2">tecnologias que utilizo no desenvolvimento</a> e <a href="#3">outras ferramentas</a>.</li>
   <li>🌠 E algumas <a href="#4">linguagens que vi brevemente</a></li>
 </ul> <br><br>
 
@@ -25,7 +25,7 @@
    <a href="https://discord.gg/Bu78wBZ"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a>
 </p> <br>
 
-<h2 id="2">Softwares e Linguagens de Desenvolvimento</h2> 
+<h2 id="2">Softwares e Linguagens</h2> 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java"/>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
@@ -44,12 +44,8 @@
   <img src="https://img.shields.io/badge/game%20maker%20-%233333FF.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Glit" title="Glit"/>                                                                                                                                          
 </p><br><br>                                                                                                                                                    
 
-<!--### Java                                                                                                                                                                                                                                                                                                                                                                                                                                                
-Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias como Algoritmo e Estrutura de Dados, fiz um curso com duração de 60 horas
--->    
-
-<h2 id="3">Ferramentas em Geral</h2> 
-<p align="center"><!-- DroidCam, VoiceMeeter Banana e Audacity. -->
+<h2 id="3">Outras Ferramentas</h2> 
+<p align="center"><!-- Booking, DroidCam, VoiceMeeter Banana e Audacity. -->
   <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Fireworks%20-%23F7DF1E.svg?&style=for-the-badge&logo=adobe&logoColor=323330"/>
   <img src="https://img.shields.io/badge/Streamlabs%20-%231fe9c8.svg?&style=for-the-badge"/>
