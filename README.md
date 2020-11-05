@@ -10,6 +10,7 @@
   <li>🎥 E faço lives na <a href="https://www.twitch.tv/system_gang" title="Roxinha">Twitch</a></li>
   <li><a href="#ancora">Âncora HTML</a></li>
   <li><a href="#section2">Go to Section 2</a></li>
+  <li><a href="antiga">Âncora HTML</a></li>
  </ul>
 
 * 👨🏾‍💻 Veja também, algumas das tecnologias que utilizo, em [softwares e linguagens](#softwares-e-linguagens-de-desenvolvimento) e [ferramentas em geral](#ferramentas-em-geral)
@@ -64,6 +65,7 @@ Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias
 
 ## Contato Rápido
 
+<a name="antiga"><h2>Antiga Name</h2><a/>
 <p align="center">
   <img src="https://img.shields.io/badge/programming%20language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
@@ -86,5 +88,5 @@ trabalhando em.. aprendendo a.. colaborando com.. procurando ajuda para.. me per
 [Âncora Markdown](#section)                  //Âncora Markdown & HTML
 ## <a name=“section”><a/> Âncora Markdown
 <a href="#ancora">Âncora HTML</a>            //Âncora HTML
-<a name=“ancora”><h2>Âncora HTML</h2><a/>  
+<a name="ancora"><h2>Âncora HTML</h2><a/>  
 -->
