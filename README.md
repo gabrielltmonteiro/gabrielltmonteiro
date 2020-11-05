@@ -4,7 +4,7 @@
   <a href="https://github.com/gabrielltmonteiro" title="" alt=""><img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me"></a> 
 </p>
 
-<h2 id="1">Olá, eu sou o Gabe!</h2> <br>
+<h1 id="1">Olá, eu sou o Gabe!</h1> <br>
 
 <ul>
   <li>📚 Graduando em Sistemas de Informação na UNISUL.</li>
@@ -17,7 +17,7 @@
 
 <p align="center"> 
   <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&show_icons=true&theme=bluewhite"/></a>
-</p> <br>
+</p> <br><br>
 
 <p align="right">
   <a href="https://systemgang.blogspot.com/"><img src="https://img.shields.io/twitter/url?color=orange&label=System_Gang&logo=blogger&logoColor=white&style=plastic&url=https%3A%2F%2Fsystemgang.blogspot.com"></a>&nbsp;
