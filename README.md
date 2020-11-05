@@ -1,32 +1,30 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gltm-jrsoftwaredeveloper/)&nbsp; [![Youtube](https://img.shields.io/badge/-YouTube-bb0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)](https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)&nbsp; 
 [<img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me" />](https://github.com/gabrielltmonteiro)
 
-# Olá, eu sou o Gabe!
+<h2 id="1">Olá, eu sou o Gabe!</h2><br>
 
 <ul>
-  <li>📚 Graduando em Sistemas de Informação na UNISUL</li>
+  <li>📚 Graduando em Sistemas de Informação na UNISUL.</li>
   <li>🐗 Atualmente estou focado em Java, HTML5, CSS3 e JS.</li>
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
-  <li>🎥 E faço lives na <a href="https://www.twitch.tv/system_gang" title="Roxinha">Twitch</a></li>
-  <li><a href="#ancora">Âncora HTML</a></li>
-  <li><a href="#section2">Go to Section 2</a></li>
-  <li><a href="#antiga">Antiga Name</a></li>
+  <li>🎥 E faço lives na <a href="https://www.twitch.tv/system_gang" title="Roxinha">Twitch</a>.</li>
+  <li>👨🏾‍💻 Veja também, algumas das tecnologias que utilizo, em <a href="#2">softwares e linguagens</a> e <a href="#3">ferramentas em geral</a>.</li>
+  <li>🌠 E algumas <a href="#4">linguagens que vi brevemente</a></li>
  </ul>
 
-* 👨🏾‍💻 Veja também, algumas das tecnologias que utilizo, em [softwares e linguagens](#softwares-e-linguagens-de-desenvolvimento) e [ferramentas em geral](#ferramentas-em-geral)
-* 🌠 E algumas [linguagens que vi brevemente](#contato-rápido)
+
 
 <p align="center"> 
- <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&show_icons=true&theme=bluewhite" /></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&show_icons=true&theme=bluewhite" /></a>
 </p> 
 <p align="right">
- <a href="https://systemgang.blogspot.com/"><img src="https://img.shields.io/twitter/url?color=orange&label=System_Gang&logo=blogger&logoColor=white&style=plastic&url=https%3A%2F%2Fsystemgang.blogspot.com"></a>&nbsp;
- <a href="https://senhordesenvolvedor.wordpress.com/"><img src="https://img.shields.io/twitter/url?color=white&label=Sr.%20Desenvolvedor&logo=wordpress&style=plastic&url=https%3A%2F%2Fsenhordesenvolvedor.wordpress.com%2F"></a>&nbsp;
- <a href="https://twitch.tv/system_gang"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/system_gang?color=d60087&label=Live&logo=twitch&logoColor=white"></a>&nbsp;
- <a href="https://discord.gg/Bu78wBZ"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a>
- </p><br><br>
+  <a href="https://systemgang.blogspot.com/"><img src="https://img.shields.io/twitter/url?color=orange&label=System_Gang&logo=blogger&logoColor=white&style=plastic&url=https%3A%2F%2Fsystemgang.blogspot.com"></a>&nbsp;
+   <a href="https://senhordesenvolvedor.wordpress.com/"><img src="https://img.shields.io/twitter/url?color=white&label=Sr.%20Desenvolvedor&logo=wordpress&style=plastic&url=https%3A%2F%2Fsenhordesenvolvedor.wordpress.com%2F"></a>&nbsp;
+   <a href="https://twitch.tv/system_gang"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/system_gang?color=d60087&label=Live&logo=twitch&logoColor=white"></a>&nbsp;
+   <a href="https://discord.gg/Bu78wBZ"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a>
+</p><br><br>
 
-## Softwares e Linguagens de Desenvolvimento
+<h2 id="2">Softwares e Linguagens de Desenvolvimento</h2> <br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java"/>
@@ -44,16 +42,14 @@
   <img src="https://img.shields.io/badge/wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>   
   <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glit" title="Glit"/> 
   <img src="https://img.shields.io/badge/game%20maker%20-%233333FF.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Glit" title="Glit"/>                                                                                                                                          
-</p><br><br>
-                                                                                                                                                    
-<!--<br>                                                                                                                                                                                                                                                                                                        
-### Java                                                                                                                                                
+</p><br><br>                                                                                                                                                    
+
+<!--### Java                                                                                                                                                                                                                                                                                                                                                                                                                                                
 Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias como Algoritmo e Estrutura de Dados, fiz um curso com duração de 60 horas
--->                                                                                                                                                   
-## Ferramentas em Geral
+-->    
 
-<h2 id="ancora">Âncora HTML</h2>
-
+<h2 id="3">Ferramentas em Geral</h2> <br> 
+  
 <p align="center"><!-- DroidCam, VoiceMeeter Banana e Audacity. -->
   <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Fireworks%20-%23F7DF1E.svg?&style=for-the-badge&logo=adobe&logoColor=323330"/>
@@ -63,8 +59,8 @@ Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias
   <img src="https://img.shields.io/badge/evernote%20-%233aae00.svg?&style=for-the-badge&logo=evernote&logoColor=ffffff"/>
 </p><br><br>
 
-## Contato Rápido
-
+<h2 id="4">Contato Rápido</h2> <br> 
+  
 <h2 name="antiga">Antiga Name</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/programming%20language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>  
@@ -72,7 +68,6 @@ Vi pela primeira vez na Unisul, no início de 2018 e além de concluir matérias
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python"/>
 </p><br><br>
 
-<h2 id="section2">Section 2</h2>
 <!--<a name=“section”><a/>
 --
 <p align="center"> 
@@ -88,5 +83,6 @@ trabalhando em.. aprendendo a.. colaborando com.. procurando ajuda para.. me per
 [Âncora Markdown](#section)                  //Âncora Markdown & HTML
 ## <a name=“section”><a/> Âncora Markdown
 <a href="#ancora">Âncora HTML</a>            //Âncora HTML
-<a name="ancora"><h2>Âncora HTML</h2><a/>  
+<h2 id="ancora">Âncora HTML</h2>
+//<h2 name="ancora">Âncora HTML</h2> //Funciona com name também
 -->
