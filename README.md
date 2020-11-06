@@ -26,7 +26,7 @@
    <a href="https://discord.gg/Bu78wBZ"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a>
 </p><br>
 <details>
-  <summary><a href="# "><b>Ver Mais / Menos</b></a></summary>
+  <summary><b>Ver Mais / Menos</b></summary>
   <section>
     <div>
       <h2 id="2">Softwares e Linguagens</h2> 
