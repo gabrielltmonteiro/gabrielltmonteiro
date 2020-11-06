@@ -27,7 +27,7 @@
 </p> <br>
 
 <details>
-  <summary>Ver Mais</summary>
+  <summary>Ver Mais / Menos</summary>
   <section>
     <div>
       <h2 id="2">Softwares e Linguagens</h2> 
