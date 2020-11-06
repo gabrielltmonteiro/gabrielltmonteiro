@@ -27,7 +27,7 @@
 </p> <br>
 
 <details>
-  <summary>Ver Mais / Menos</summary>
+  <summary><b>Ver Mais / Menos</b></summary>
   <section>
     <div>
       <h2 id="2">Softwares e Linguagens</h2> 
@@ -50,7 +50,7 @@
           <img src="https://img.shields.io/badge/game%20maker%20-%233333FF.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Glit" title="Glit"/>                                                                                                                                         
       </p><br><br>                                                                                                                                                    
     </div>
-      <h2 id="3">Outras Ferramentas</h2> 
+      <h2 id="3" style="background-color:DodgerBlue;">Outras Ferramentas</h2> 
       <p align="center"><!-- Booking, DroidCam, VoiceMeeter Banana e Audacity. -->
         <a href="# ">
           <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" title="Photoshop"/>
