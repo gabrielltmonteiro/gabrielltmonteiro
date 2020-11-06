@@ -32,22 +32,51 @@
     <div>
       <h2 id="2">Softwares e Linguagens</h2> 
       <p align="center">
-        <a href="# " style="text-decoration:none">
+        <a href="#">
           <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java"/>
+        </a>
+        <a href="#">
           <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
+        </a>
+        <a href="#">  
           <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
+        </a>
+        <a href="#">  
           <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript" title="JavaScript"/>
+        </a>
+        <a href="#">
           <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" title="Markdown"/>
+        </a>
+        <a href="#">  
           <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"/>
+        </a>
+        <a href="#"> 
           <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"/>
+        </a>
+        <a href="#"> 
           <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" title="VSCode"/>
+        </a>
+        <a href="#">
           <img src="https://img.shields.io/badge/-Netbeans-42588f?style=for-the-badge&logo=netbeans-ide&logoColor=white" alt="Netbeans" title="Netbeans"/>
+        </a>
+        <a href="#">  
           <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" title="Eclipse"/>
+        </a>
+        <a href="#"> 
           <img src="https://img.shields.io/badge/repl.it%20-%23e8e6e8.svg?style=for-the-badge&logo=repl.it&logoColor=000" alt="Repl.it" title="Repl.it"/>
+        </a>
+        <a href="#">  
           <img src="https://img.shields.io/badge/blogger%20-%23ff5722.svg?&style=for-the-badge&logo=blogger&logoColor=white"/>
+        </a>
+        <a href="#">  
           <img src="https://img.shields.io/badge/wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"/>
+        </a>
+        <a href="#">  
           <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glit" title="Glit"/>
+        </a>
+        <a href="#">  
           <img src="https://img.shields.io/badge/game%20maker%20-%233333FF.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Glit" title="Glit"/>                                                                                                                                         
+        </a>
       </p><br><br>                                                                                                                                                    
     </div>
       <h2 id="3" style="background-color:DodgerBlue;">Outras Ferramentas</h2> 
