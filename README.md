@@ -32,7 +32,7 @@
     <div>
       <h2 id="2">Softwares e Linguagens</h2> 
       <p align="center">
-        <a href="# ">
+        <a href="/">
           <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java"/>
         </a>
         <a href="# ">
