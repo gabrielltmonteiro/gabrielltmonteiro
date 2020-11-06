@@ -24,10 +24,9 @@
    <a href="https://senhordesenvolvedor.wordpress.com/"><img src="https://img.shields.io/twitter/url?color=white&label=Sr.%20Desenvolvedor&logo=wordpress&style=plastic&url=https%3A%2F%2Fsenhordesenvolvedor.wordpress.com%2F"></a>&nbsp;
    <a href="https://twitch.tv/system_gang"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/system_gang?color=d60087&label=Live&logo=twitch&logoColor=white"></a>&nbsp;
    <a href="https://discord.gg/Bu78wBZ"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a>
-</p> <br>
-<!--<b>Ver Mais / Menos</b>-->
-<details id="20">
-  <summary><a href="# " id="20"><img src="https://img.shields.io/badge/-Mostrar-brightgreen"/></a></summary>
+</p><br>
+<details>
+  <summary><a href="# "><b>Ver Mais / Menos</b></a></summary>
   <section>
     <div>
       <h2 id="2">Softwares e Linguagens</h2> 
@@ -145,6 +144,8 @@ trabalhando em.. aprendendo a.. colaborando com.. procurando ajuda para.. me per
 --
 [//]: # "Markdown" 
 <!--HTML-- >
+--
+<img src="https://img.shields.io/badge/-Mostrar-brightgreen"/>
 --
 [Âncora Markdown](#ancora-markdown)          //Âncora Markdown
 ## Ancora Markdown 
