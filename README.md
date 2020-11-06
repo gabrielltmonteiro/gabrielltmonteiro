@@ -25,14 +25,14 @@
    <a href="https://twitch.tv/system_gang"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/system_gang?color=d60087&label=Live&logo=twitch&logoColor=white"></a>&nbsp;
    <a href="https://discord.gg/Bu78wBZ"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a>
 </p> <br>
-
-<details>
-  <summary><b>Ver Mais / Menos</b></summary>
+<!--<b>Ver Mais / Menos</b>-->
+<details id="20">
+  <summary><a href="20" id><img src="https://img.shields.io/badge/-Mostrar-brightgreen"/></a></summary>
   <section>
     <div>
       <h2 id="2">Softwares e Linguagens</h2> 
       <p align="center">
-        <a href="/">
+        <a href="# ">
           <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java"/>
         </a>
         <a href="# ">
