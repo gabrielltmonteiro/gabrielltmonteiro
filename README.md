@@ -27,7 +27,7 @@
 </p> <br>
 <!--<b>Ver Mais / Menos</b>-->
 <details id="20">
-  <summary><a href="20" id><img src="https://img.shields.io/badge/-Mostrar-brightgreen"/></a></summary>
+  <summary><a href="# " id="20"><img src="https://img.shields.io/badge/-Mostrar-brightgreen"/></a></summary>
   <section>
     <div>
       <h2 id="2">Softwares e Linguagens</h2> 
