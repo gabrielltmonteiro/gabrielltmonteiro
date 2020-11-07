@@ -1,6 +1,6 @@
 <p align="right">  
-  <a href="https://www.linkedin.com/in/gltm-jrsoftwaredeveloper"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" title="Linkedin"/></a>&nbsp; 
-  <a href="https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)&nbsp;" title="Youtube" alt="Youtube"><img src="https://img.shields.io/badge/-YouTube-bb0000?style=flat&logo=YouTube&logoColor=white"/></a>&nbsp; 
+  <a href="https://www.linkedin.com/in/gltm-jrsoftwaredeveloper"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" title="Já se conectou hoje?"/></a>&nbsp; 
+  <a href="https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)&nbsp;" title="Upload das Lives" alt="Youtube"><img src="https://img.shields.io/badge/-YouTube-bb0000?style=flat&logo=YouTube&logoColor=white"/></a>&nbsp; 
   <a href="https://github.com/gabrielltmonteiro" title="" alt=""><img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me"></a> 
 </p>
 
@@ -20,10 +20,10 @@
 </p> <br><br>
 
 <p align="right">
-  <a href="https://systemgang.blogspot.com/"><img src="https://img.shields.io/twitter/url?color=orange&label=System_Gang&logo=blogger&logoColor=white&style=plastic&url=https%3A%2F%2Fsystemgang.blogspot.com"></a>&nbsp;
-   <a href="https://senhordesenvolvedor.wordpress.com/"><img src="https://img.shields.io/twitter/url?color=white&label=Sr.%20Desenvolvedor&logo=wordpress&style=plastic&url=https%3A%2F%2Fsenhordesenvolvedor.wordpress.com%2F"></a>&nbsp;
-   <a href="https://twitch.tv/system_gang"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/system_gang?color=d60087&label=Live&logo=twitch&logoColor=white"></a>&nbsp;
-   <a href="https://discord.gg/Bu78wBZ"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a>
+  <a href="https://systemgang.blogspot.com/" title="Quer aprender um pouco sobre Estrutura de Dados?"><img src="https://img.shields.io/twitter/url?color=orange&label=System_Gang&logo=blogger&logoColor=white&style=plastic&url=https%3A%2F%2Fsystemgang.blogspot.com"></a>&nbsp;
+   <a href="https://senhordesenvolvedor.wordpress.com/" title="Apenas para Newbies: Ambiente Java!"><img src="https://img.shields.io/twitter/url?color=white&label=Sr.%20Desenvolvedor&logo=wordpress&style=plastic&url=https%3A%2F%2Fsenhordesenvolvedor.wordpress.com%2F"></a>&nbsp;
+   <a href="https://twitch.tv/system_gang" title="Volto já!☕"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/system_gang?color=d60087&label=Live&logo=twitch&logoColor=white"></a>&nbsp;
+   <a href="https://discord.gg/Bu78wBZ" title="Que tal bater um papo?"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a>
 </p><br>
 <details>
   <summary><b>Ver Mais / Menos</b></summary>
