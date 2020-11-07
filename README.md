@@ -32,49 +32,49 @@
       <h2 id="2">Softwares e Linguagens</h2> 
       <p align="center">
         <a href="# ">
-          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Java"/>
+          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Back-end: Java"/>
         </a>
         <a href="# ">
-          <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
+          <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="Front-end: HTML5"/>
         </a>
         <a href="# ">  
-          <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
+          <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="Front-end: CSS3"/>
         </a>
         <a href="# ">  
-          <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript" title="JavaScript"/>
+          <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330" alt="Front-end: JavaScript" title="JavaScript"/>
         </a>
         <a href="# ">
-          <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" title="Markdown"/>
+          <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" title="Linguagem de Marcação: Markdown"/>
         </a>
         <a href="# ">  
-          <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"/>
+          <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Versionamento: Git"/>
         </a>
         <a href="# "> 
-          <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub"/>
+          <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="Versionamento: GitHub"/>
         </a>
         <a href="# "> 
-          <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" title="VSCode"/>
+          <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" title="Editor: VSCode"/>
         </a>
         <a href="# ">
-          <img src="https://img.shields.io/badge/-Netbeans-42588f?style=for-the-badge&logo=netbeans-ide&logoColor=white" alt="Netbeans" title="Netbeans"/>
+          <img src="https://img.shields.io/badge/-Netbeans-42588f?style=for-the-badge&logo=netbeans-ide&logoColor=white" alt="Netbeans" title="IDE: Netbeans"/>
         </a>
         <a href="# ">  
-          <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" title="Eclipse"/>
+          <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" title="IDE: Eclipse"/>
         </a>
         <a href="# "> 
-          <img src="https://img.shields.io/badge/repl.it%20-%23e8e6e8.svg?style=for-the-badge&logo=repl.it&logoColor=000" alt="Repl.it" title="Repl.it"/>
+          <img src="https://img.shields.io/badge/repl.it%20-%23e8e6e8.svg?style=for-the-badge&logo=repl.it&logoColor=000" alt="Repl.it" title="IDE Online: Repl.it"/>
         </a>
         <a href="# ">  
-          <img src="https://img.shields.io/badge/blogger%20-%23ff5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" title="Blogger"/>
+          <img src="https://img.shields.io/badge/blogger%20-%23ff5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" title="Blog: Blogger"/>
         </a>
         <a href="# ">  
-          <img src="https://img.shields.io/badge/wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" title="Wordpress"/>
+          <img src="https://img.shields.io/badge/wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" title="Blog: Wordpress"/>
         </a>
         <a href="# ">  
-          <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glit" title="Glit"/>
+          <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glitch" title="Ambiente de Desenvolvimento Online: Glitch"/>
         </a>
         <a href="# ">  
-          <img src="https://img.shields.io/badge/game%20maker%20-%233333FF.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Game Maker" title="Game Maker Studio 2, Game Maker Language"/>                                                                                                                                         
+          <img src="https://img.shields.io/badge/game%20maker%20-%233333FF.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Game Maker" title="Engine: Game Maker Studio 2 and Game Maker Language"/>                                                                                                                                         
         </a>
       </p><br><br>                                                                                                                                                    
     </div>
