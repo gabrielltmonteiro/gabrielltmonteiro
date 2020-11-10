@@ -13,7 +13,7 @@
     .</li>
   <li>👨🏾‍💻 Veja também, algumas das <a href="#2">tecnologias que utilizo</a> no desenvolvimento e <a href="#3">outras ferramentas</a>.</li>
   <li>🌠 E algumas <a href="#4">linguagens que vi brevemente</a></li>
-</ul><br><br>
+</ul><hr><br><br>
 
 <p align="center"> 
   <a href="https://gabrielltmonteiro.github.io"><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&hide=prs&layout=compact&show_icons=true&theme=react"/></a>
