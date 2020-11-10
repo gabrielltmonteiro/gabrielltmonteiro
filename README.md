@@ -3,7 +3,7 @@
   <a href="https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)&nbsp;" title="Upload das Lives" alt="Youtube"><img src="https://img.shields.io/badge/-YouTube-bb0000?style=flat&logo=YouTube&logoColor=white"/></a>&nbsp; 
   <a href="https://github.com/gabrielltmonteiro" title="" alt=""><img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me"></a> 
 </p>
-
+<hr>
 <h1 id="1">:octocat:Olá, eu sou o Gabe!</h1>
 <ul>
   <li>📚 Graduando em Sistemas de Informação.</li>
