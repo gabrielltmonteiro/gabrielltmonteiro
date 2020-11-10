@@ -4,8 +4,8 @@
   <a href="https://github.com/gabrielltmonteiro" title="" alt=""><img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me"></a> 
 </p>
 <hr>
-<h1 id="1">:octocat:Olá, eu sou o Gabe!</h1>
-<ul>
+<h1 id="1">:octocat:<samp>Olá, eu sou o Gabe!</h1>
+<ul><samp>
   <li>📚 Graduando em Sistemas de Informação.</li>
   <li>🐗 Atualmente focado em Java, HTML5, CSS3 e JS.</li>
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
