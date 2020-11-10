@@ -13,12 +13,11 @@
     .</li>
   <li>👨🏾‍💻 Veja também, algumas das <a href="#2">tecnologias que utilizo</a> no desenvolvimento e <a href="#3">outras ferramentas</a>.</li>
   <li>🌠 E algumas <a href="#4">linguagens que vi brevemente</a></li>
-</ul>
-<hr>
+</ul><br><br>
+
 <p align="center"> 
-  <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&hide=prs&layout=compact&show_icons=true&theme=react"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielltmonteiro&layout=compact&theme=react">
-</p><hr><br><br>
+  <a href="https://gabrielltmonteiro.github.io"><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&hide=prs&layout=compact&show_icons=true&theme=react"/></a>
+</p><br><br>
 
 <p align="right">
   <a href="https://systemgang.blogspot.com/" title="Quer aprender um pouco sobre Estrutura de Dados?"><img src="https://img.shields.io/twitter/url?color=orange&label=System_Gang&logo=blogger&logoColor=white&style=plastic&url=https%3A%2F%2Fsystemgang.blogspot.com"></a>&nbsp;
