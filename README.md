@@ -16,7 +16,7 @@
 </ul> <br><br>
 
 <p align="center"> 
-  <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&show_icons=true&theme=calm"/></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&hide=prs,contribs&show_icons=true&theme=calm"/></a>
 </p> <br><br>
 
 <p align="right">
