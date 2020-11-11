@@ -29,7 +29,7 @@
   <summary><samp><b>Ver Mais / Menos</b></summary>
   <section>
     <div><hr>
-      <h2 id="2">Softwares e Linguagens</h2> 
+      <h2 id="2" align="center">Softwares e Linguagens</h2> 
       <p align="center">
         <a href="# ">
           <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Back-end: Java"/>
@@ -79,7 +79,7 @@
       </p><br><br>                                                                                                                                                    
     </div>
     <div><hr>
-      <h2 id="3" style="background-color:DodgerBlue;">Outras Ferramentas</h2> 
+      <h2 id="3" align="center">Outras Ferramentas</h2> 
       <p align="center"><!-- Booking, DroidCam, VoiceMeeter Banana e Audacity. -->
         <a href="# ">
           <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" title="Photoshop"/>
@@ -102,7 +102,7 @@
       </p><br><br>
     </div>
     <div><hr>  
-      <h2 id="4">Contato Rápido</h2> 
+      <h2 id="4" align="center">Contato Rápido</h2> 
       <p align="center">
         <a href="# ">
           <img src="https://img.shields.io/badge/programming%20language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação C"/>
