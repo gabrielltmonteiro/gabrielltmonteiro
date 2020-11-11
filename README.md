@@ -29,7 +29,7 @@
   <summary><samp><b>Ver Mais / Menos</b></summary>
   <section>
     <div><hr>
-      <h2 id="2" align="center">Softwares e Linguagens</h2> 
+      <h2 id="2" align="center"><samp>Softwares e Linguagens</h2> 
       <p align="center">
         <a href="# ">
           <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Back-end: Java"/>
@@ -79,39 +79,39 @@
       </p><br><br>                                                                                                                                                    
     </div>
     <div><hr>
-      <h2 id="3" align="center">Outras Ferramentas</h2> 
+      <h2 id="3" align="center"><samp>Outras Ferramentas</h2> 
       <p align="center"><!-- Booking, DroidCam, VoiceMeeter Banana e Audacity. -->
         <a href="# ">
-          <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" title="Photoshop"/>
+          <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" title="Design: Photoshop"/>
         </a>
         <a href="# ">  
-          <img src="https://img.shields.io/badge/Fireworks%20-%23F7DF1E.svg?&style=for-the-badge&logo=adobe&logoColor=323330" alt="Fireworks" title="Fireworks"/>
+          <img src="https://img.shields.io/badge/Fireworks%20-%23F7DF1E.svg?&style=for-the-badge&logo=adobe&logoColor=323330" alt="Fireworks" title="Design: Fireworks"/>
         </a>
         <a href="# "> 
-          <img src="https://img.shields.io/badge/Streamlabs%20-%231fe9c8.svg?&style=for-the-badge" alt="Streamlabs" title="Streamlabs"/>
+          <img src="https://img.shields.io/badge/Streamlabs%20-%231fe9c8.svg?&style=for-the-badge" alt="Streamlabs" title="Live Stream: Streamlabs"/>
         </a>
         <a href="# "> 
-          <img src="https://img.shields.io/badge/OBS%20Studio-%23000.svg?&style=for-the-badge&logo=obs%20studio&logoColor=fff" alt="OBS Studio" title="OBS Studio"/>
+          <img src="https://img.shields.io/badge/OBS%20Studio-%23000.svg?&style=for-the-badge&logo=obs%20studio&logoColor=fff" alt="OBS Studio" title="Live Stream: OBS Studio"/>
         </a>
         <a href="# "> 
-          <img src="https://img.shields.io/badge/trello%20-%2300b8ee.svg?&style=for-the-badge&logo=trello&logoColor=white" alt="Trello" title="Trello"/>
+          <img src="https://img.shields.io/badge/trello%20-%2300b8ee.svg?&style=for-the-badge&logo=trello&logoColor=white" alt="Trello" title="Organização: Trello"/>
         </a>
         <a href="# "> 
-          <img src="https://img.shields.io/badge/evernote%20-%233aae00.svg?&style=for-the-badge&logo=evernote&logoColor=ffffff" alt="Evernote" title="Evernote"/>
+          <img src="https://img.shields.io/badge/evernote%20-%233aae00.svg?&style=for-the-badge&logo=evernote&logoColor=ffffff" alt="Evernote" title="Organização: Evernote"/>
          </a>
       </p><br><br>
     </div>
     <div><hr>  
-      <h2 id="4" align="center">Contato Rápido</h2> 
+      <h2 id="4" align="center"><samp>Contato Rápido</h2> 
       <p align="center">
         <a href="# ">
-          <img src="https://img.shields.io/badge/programming%20language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação C"/>
+          <img src="https://img.shields.io/badge/language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação: C"/>
         </a>
         <a href="# "> 
-          <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP"/>
+          <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="Linguagem de Programação: PHP"/>
         </a>
         <a href="# "> 
-          <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python" alt="Python" title="Python"/>
+          <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python" alt="Python" title="Linguagem de Programação: Python"/>
         </a>
       </p><br><br><hr>
   </div>
