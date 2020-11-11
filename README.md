@@ -26,9 +26,9 @@
    <a href="https://discord.gg/Bu78wBZ" title="Que tal bater um papo?"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a>
 </p><br>
 <details>
-  <summary><b>Ver Mais / Menos</b></summary>
+  <summary><samp><b>Ver Mais / Menos</b></summary>
   <section>
-    <div>
+    <div><hr>
       <h2 id="2">Softwares e Linguagens</h2> 
       <p align="center">
         <a href="# ">
@@ -78,6 +78,7 @@
         </a>
       </p><br><br>                                                                                                                                                    
     </div>
+    <div><hr>
       <h2 id="3" style="background-color:DodgerBlue;">Outras Ferramentas</h2> 
       <p align="center"><!-- Booking, DroidCam, VoiceMeeter Banana e Audacity. -->
         <a href="# ">
@@ -100,7 +101,7 @@
          </a>
       </p><br><br>
     </div>
-    <div>  
+    <div><hr>  
       <h2 id="4">Contato Rápido</h2> 
       <p align="center">
         <a href="# ">
@@ -112,7 +113,7 @@
         <a href="# "> 
           <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python" alt="Python" title="Python"/>
         </a>
-      </p><br><br>
+      </p><br><br><hr>
   </div>
   </section>
 </details>
