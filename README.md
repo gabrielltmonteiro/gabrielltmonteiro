@@ -7,7 +7,7 @@
 <h1 id="1">:octocat:<samp>Olá, eu sou o Gabe!</h1>
 <ul><samp>
   <li>📚 Graduando em Sistemas de Informação.</li>
-  <li>🐗 Atualmente focado em Java, HTML5, CSS3 e JS.</li>
+  <li>🐗 Atualmente estou focado em aprender Java, HTML5, CSS3 e JS.</li>
   <li>💻 Além de ferramentas Git, terminais de linha de comando, plataformas de hospedagem de código fonte e ambientes de desenvolvimento online.</li>
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
   <li>🎥 Sou Streamer da <a href="https://www.twitch.tv/system_gang" title="Roxinha">Twitch</a>, 
