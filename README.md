@@ -79,7 +79,7 @@
       </p><br><br>                                                                                                                                                    
     </div>
     <div><hr>
-      <h2 id="3" align="center"><samp>Outras Ferramentas</h2> 
+      <h2 id="3" align="center"><br><br><samp>Outras Ferramentas</h2> 
       <p align="center"><!-- Booking, DroidCam, VoiceMeeter Banana e Audacity. -->
         <a href="# ">
           <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" title="Design: Photoshop"/>
@@ -102,7 +102,7 @@
       </p><br><br>
     </div>
     <div><hr>  
-      <h2 id="4" align="center"><samp>Contato Rápido</h2> 
+      <h2 id="4" align="center"><br><br><samp>Contato Rápido</h2> 
       <p align="center">
         <a href="# ">
           <img src="https://img.shields.io/badge/language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação: C"/>
