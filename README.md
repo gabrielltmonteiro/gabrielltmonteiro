@@ -74,7 +74,7 @@
           <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glitch" title="Ambiente de Desenvolvimento Online: Glitch"/>
         </a>
         <a href="# ">  
-          <img src="https://img.shields.io/badge/game%20maker%20-%233333FF.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Game Maker" title="Engine: Game Maker Studio 2 and Game Maker Language"/>                                                                                                                                         
+          <img src="https://img.shields.io/badge/game%20maker%20-%23000.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Game Maker" title="Engine: Game Maker Studio 2 and Game Maker Language"/>                                                                                                                                         
         </a>
       </p><br><br>                                                                                                                                                    
     </div>
@@ -105,13 +105,19 @@
       <h2 id="4" align="center"><br><br><samp>Contato Rápido</h2> 
       <p align="center">
         <a href="# ">
-          <img src="https://img.shields.io/badge/language-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação: C"/>
+          <img src="https://img.shields.io/badge/language-%2314354C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação: C"/>
         </a>
         <a href="# "> 
-          <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="Linguagem de Programação: PHP"/>
+          <img src="https://img.shields.io/badge/PHP-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="Linguagem de Programação: PHP"/>
         </a>
         <a href="# "> 
-          <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python" alt="Python" title="Linguagem de Programação: Python"/>
+          <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=python" alt="Python" title="Linguagem de Programação: Python"/>
+        </a>
+        <a href="# "> 
+          <img src="https://img.shields.io/badge/GitLab%20-%2314354C.svg?&style=for-the-badge&logo=gitlab" alt="GitLab" title="IDE Online:      GitLab      "/>
+        </a>
+        <a href="# "> 
+          <img src="https://img.shields.io/badge/Codepen%20-%2314354C.svg?&style=for-the-badge&logo=codepen" alt="Python" title="Editor Online:      CodePen      "/>
         </a>
       </p><br><br><hr>
   </div>
