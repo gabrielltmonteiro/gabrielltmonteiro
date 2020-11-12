@@ -105,21 +105,23 @@
     <div><hr>  
       <h2 id="4" align="center"><br><br><samp>Contato Rápido</h2> 
       <p align="center">
-        <a href="# ">
-          <img src="https://img.shields.io/badge/language-%2314354C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação: C"/>
-        </a>
-        <a href="# "> 
-          <img src="https://img.shields.io/badge/PHP-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="Linguagem de Programação: PHP"/>
-        </a>
-        <a href="# "> 
-          <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=python" alt="Python" title="Linguagem de Programação: Python"/>
-        </a>
         <a href="# "> 
           <img src="https://img.shields.io/badge/GitLab%20-%2314354C.svg?&style=for-the-badge&logo=gitlab" alt="GitLab" title="IDE Online:      GitLab      "/>
         </a>
         <a href="# "> 
           <img src="https://img.shields.io/badge/Codepen%20-%2314354C.svg?&style=for-the-badge&logo=codepen" alt="Python" title="Editor Online:      CodePen      "/>
         </a>
+        <a href="# "> 
+          <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=python" alt="Python" title="Linguagem de Programação: Python"/>
+        </a>
+        <a href="# ">
+          <img src="https://img.shields.io/badge/language-%2314354C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação: C"/>
+        </a>
+        <a href="# "> 
+          <img src="https://img.shields.io/badge/PHP-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="Linguagem de Programação: PHP"/>
+        </a>
+        
+        
       </p><br><br><hr>
   </div>
   </section>
