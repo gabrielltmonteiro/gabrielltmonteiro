@@ -114,14 +114,12 @@
         <a href="# "> 
           <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=python" alt="Python" title="Linguagem de Programação: Python"/>
         </a>
-        <a href="# ">
-          <img src="https://img.shields.io/badge/language-%2314354C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação: C"/>
-        </a>
         <a href="# "> 
           <img src="https://img.shields.io/badge/PHP-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="Linguagem de Programação: PHP"/>
         </a>
-        
-        
+        <a href="# ">
+          <img src="https://img.shields.io/badge/language-%2314354C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação: C"/>
+        </a> 
       </p><br><br><hr>
   </div>
   </section>
