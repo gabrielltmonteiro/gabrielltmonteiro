@@ -44,6 +44,9 @@
           <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript" title=Front-end: "JavaScript"/>
         </a>
         <a href="# ">
+          <img src="https://img.shields.io/badge/game%20maker%20language%20-%23e8e6e8.svg?&style=for-the-badge&logo=gml&logoColor=white" alt="Game Maker Studio 2" title="Linguagem de Programação de Games: Game Maker Language"/> 
+        </a>
+        <a href="# ">
           <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" title="Linguagem de Marcação: Markdown"/>
         </a>
         <a href="# ">  
@@ -74,11 +77,8 @@
           <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glitch" title="Ambiente de Desenvolvimento Online: Glitch"/>
         </a>
         <a href="# ">  
-          <img src="https://img.shields.io/badge/game%20maker%20studio%202%20-%23000.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Game Maker Studio 2" title="Engine: Game Maker Studio 2 and Game Maker Language"/>                                                                                                                                         
-        </a>
-        <a href="# ">
-          <img src="https://img.shields.io/badge/game%20maker%20language%20-%23e8e6e8.svg?&style=for-the-badge&logo=gml&logoColor=white" alt="Game Maker Studio 2" title="Linguagem: Game Maker Language"/> 
-        </a>
+          <img src="https://img.shields.io/badge/game%20maker%20studio%202%20-%23000.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Game Maker Studio 2" title="Engine: Game Maker Studio 2"/>                                                                                                                                         
+        </a>        
       </p><br><br>                                                                                                                                                    
     </div>
     <div><hr>
