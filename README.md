@@ -74,7 +74,10 @@
           <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glitch" title="Ambiente de Desenvolvimento Online: Glitch"/>
         </a>
         <a href="# ">  
-          <img src="https://img.shields.io/badge/game%20maker%20-%23000.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Game Maker" title="Engine: Game Maker Studio 2 and Game Maker Language"/>                                                                                                                                         
+          <img src="https://img.shields.io/badge/game%20maker%20studio%202%20-%23000.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Game Maker Studio 2" title="Engine: Game Maker Studio 2 and Game Maker Language"/>                                                                                                                                         
+        </a>
+        <a href="# ">
+          <img src="https://img.shields.io/badge/game%20maker%20language%20-23%ffffff.svg?&style=for-the-badge&log=gml&logoColor=gray" alt="Game Maker Language" title"Linguagem: GML"/>
         </a>
       </p><br><br>                                                                                                                                                    
     </div>
