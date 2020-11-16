@@ -77,7 +77,7 @@
           <img src="https://img.shields.io/badge/game%20maker%20studio%202%20-%23000.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Game Maker Studio 2" title="Engine: Game Maker Studio 2 and Game Maker Language"/>                                                                                                                                         
         </a>
         <a href="# ">
-          <img src="https://img.shields.io/badge/game%20maker%20language%20-23%ffffff.svg?&style=for-the-badge&log=gml&logoColor=gray" alt="Game Maker Language" title"Linguagem: GML"/>
+          <img src="https://img.shields.io/badge/game%20maker%20language%20-%23e8e6e8.svg?&style=for-the-badge&logo=gml&logoColor=white" alt="Game Maker Studio 2" title="Linguagem: Game Maker Language"/> 
         </a>
       </p><br><br>                                                                                                                                                    
     </div>
