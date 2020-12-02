@@ -78,7 +78,10 @@
         </a>
         <a href="# ">  
           <img src="https://img.shields.io/badge/game%20maker%20studio%202%20-%23000.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Game Maker Studio 2" title="Engine: Game Maker Studio 2"/>                                                                                                                                         
-        </a>        
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/VirtualBox%20-%23000070.svg?&style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Box" title="Virtualização: Virtual Box"/>
+        </a>
       </p><br><br>                                                                                                                                                    
     </div>
     <div><hr>
