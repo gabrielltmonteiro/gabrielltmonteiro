@@ -12,7 +12,7 @@
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" target="_blank" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
   <li>🎥 Sou Streamer da <a href="https://www.twitch.tv/system_gang" target="_blank" title="Roxinha">Twitch</a>.</li>
   <li>👨🏻‍💻 Veja também, algumas das <a href="#2" title="Antes clique em ver mais!">tecnologias que utilizo</a> no desenvolvimento e <a href="#3" title="Antes clique em ver mais!">outras ferramentas</a>.</li>
-  <li>🌠 E algumas <a href="#4" title="Antes clique em ver mais!">linguagens que vi brevemente</a></li>
+  <li>🌠 E algumas <a href="#4" title="Antes clique em ver mais!">linguagens e tecnologias que vi brevemente</a></li>
 </ul><hr><br><br>
 
 <p align="center"> 
