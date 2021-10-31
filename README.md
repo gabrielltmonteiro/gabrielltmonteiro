@@ -1,3 +1,4 @@
+<div>
 <p align="right">  
   <a href="https://www.linkedin.com/in/gltm-jrsoftwaredeveloper"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" title="Já se conectou hoje?"/></a>&nbsp; 
   <a href="https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)&nbsp;" title="Upload das Lives" alt="Youtube"><img src="https://img.shields.io/badge/-YouTube-bb0000?style=flat&logo=YouTube&logoColor=white"/></a>&nbsp; 
@@ -15,6 +16,7 @@
   <li>👨🏻‍💻 Veja também, algumas das <a href="#2" title="Antes clique em ver mais!">tecnologias que utilizo</a> no desenvolvimento e <a href="#3" title="Antes clique em ver mais!">outras ferramentas</a>.</li>
   <li>🌠 E algumas <a href="#4" title="Antes clique em ver mais!">linguagens e tecnologias que vi brevemente</a></li>
 </ul><hr><br><br>
+</div>
 
 <div align="center">
   <a href="https://github.com/gabrielltmonteiro">
