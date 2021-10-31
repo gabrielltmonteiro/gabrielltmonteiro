@@ -21,9 +21,9 @@
 <div align="center">
   <p>
     <a href="https://github.com/gabrielltmonteiro">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&layout=compact&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&layout=compact&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/></a>
     <a href="https://gabrielltmonteiro.github.io/">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielltmonteiro&layout=compact&langs_count=7&theme=dracula"/></a>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielltmonteiro&layout=compact&langs_count=7&theme=cobalt"/></a>
   </p>
 </div>
   
