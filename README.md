@@ -23,13 +23,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielltmonteiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+  
+<div>
 <p align="right">
   <a href="https://systemgang.blogspot.com/" title="Quer aprender um pouco sobre Estrutura de Dados?"><img src="https://img.shields.io/twitter/url?color=orange&label=System_Gang&logo=blogger&logoColor=white&style=plastic&url=https%3A%2F%2Fsystemgang.blogspot.com"></a>&nbsp;
    <a href="https://senhordesenvolvedor.wordpress.com/" title="Apenas para Newbies: Ambiente Java!"><img src="https://img.shields.io/twitter/url?color=white&label=Sr.%20Desenvolvedor&logo=wordpress&style=plastic&url=https%3A%2F%2Fsenhordesenvolvedor.wordpress.com%2F"></a>&nbsp;
    <a href="https://twitch.tv/system_gang" title="Volto já!☕"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/system_gang?color=d60087&label=Live&logo=twitch&logoColor=white"></a>&nbsp;
    <a href="https://discord.gg/Bu78wBZ" title="Que tal bater um papo?"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a>
 </p><br>
+</div>
 <details>
   <summary><samp><b>Ver Mais / Menos</b></summary>
   <section>
