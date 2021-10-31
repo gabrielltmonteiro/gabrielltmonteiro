@@ -138,15 +138,11 @@
       </p><br><br><hr>   
     </section>
 </details>       
-      
-      
-      ![Snake animation](https://github.com/gabrielltmonteiro/gabrielltmonteiro/blob/output/github-contribution-grid-snake.svg)
-
-      
-  </div>
+</div>
 
 
 
+![Snake animation](https://github.com/gabrielltmonteiro/gabrielltmonteiro/blob/output/github-contribution-grid-snake.svg)
 
 
 
