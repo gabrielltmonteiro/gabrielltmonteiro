@@ -134,15 +134,17 @@
         <a href="# ">
           <img src="https://img.shields.io/badge/language-%2314354C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação: C"/>
         </a> 
-      </p><br><br><hr>
-        
-        
-        
-  </div>
-  </section>
-</details>
+      </p><br><br><hr>   
+    </section>
+</details>       
+      
+      
+      ![Snake animation](https://github.com/gabrielltmonteiro/gabrielltmonteiro/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/gabrielltmonteiro/gabrielltmonteiro/blob/output/github-contribution-grid-snake.svg)
+      
+  </div>
+
+
 
 
 
