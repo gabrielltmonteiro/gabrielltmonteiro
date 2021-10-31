@@ -16,9 +16,11 @@
   <li>🌠 E algumas <a href="#4" title="Antes clique em ver mais!">linguagens e tecnologias que vi brevemente</a></li>
 </ul><hr><br><br>
 
-<p align="center"> 
-  <a href="https://gabrielltmonteiro.github.io"><img src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&hide=prs&layout=compact&show_icons=true&theme=react"/></a>
-</p><br><br>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielltmonteiro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <p align="right">
   <a href="https://systemgang.blogspot.com/" title="Quer aprender um pouco sobre Estrutura de Dados?"><img src="https://img.shields.io/twitter/url?color=orange&label=System_Gang&logo=blogger&logoColor=white&style=plastic&url=https%3A%2F%2Fsystemgang.blogspot.com"></a>&nbsp;
@@ -127,11 +129,14 @@
           <img src="https://img.shields.io/badge/language-%2314354C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação: C"/>
         </a> 
       </p><br><br><hr>
+        
+        
+        
   </div>
   </section>
 </details>
 
-
+![Snake animation](https://github.com/gabrielltmonteiro/gabrielltmonteiro/blob/output/github-contribution-grid-snake.svg)
 
 
 
