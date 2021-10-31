@@ -7,10 +7,11 @@
 <h1 id="1">:octocat:<samp>Olá, eu sou o Gabe!</h1>
 <ul><samp>
   <li>📚 Graduando em Sistemas de Informação.</li>
-  <li>🐗 Atualmente estou focado em aprender Java, HTML5, CSS3 e JS.</li>
+  <li>🐗 Atualmente estou focado em aprender JSON, JAVA, C e Python.</li>
   <li>💻 Além de ferramentas Git, terminais de linha de comando, plataformas de hospedagem de código fonte e ambientes de desenvolvimento online.</li>
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" target="_blank" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
-  <li>🎥 Sou Streamer da <a href="https://www.twitch.tv/system_gang" target="_blank" title="Roxinha">Twitch</a>.</li>
+  <li>🎥 Fui Streamer da <a href="https://www.twitch.tv/system_gang" target="_blank" title="Roxinha">Twitch</a> e pretendo retornar.</li> 
+  <!-- montar quadro de programação da twitch e colar essa tag depois de pretendo retornar <a href="https://www.twitch.tv/system_gang/schedule target="_blank" title="Próximas lives">em breve</a> -->
   <li>👨🏻‍💻 Veja também, algumas das <a href="#2" title="Antes clique em ver mais!">tecnologias que utilizo</a> no desenvolvimento e <a href="#3" title="Antes clique em ver mais!">outras ferramentas</a>.</li>
   <li>🌠 E algumas <a href="#4" title="Antes clique em ver mais!">linguagens e tecnologias que vi brevemente</a></li>
 </ul><hr><br><br>
