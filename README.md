@@ -16,12 +16,11 @@
   <li>🌠 E algumas <a href="#4" title="Antes clique em ver mais!">linguagens e tecnologias que vi brevemente</a></li>
 </ul><hr><br><br>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/gabrielltmonteiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielltmonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <a href="https://github.com/gabrielltmonteiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielltmonteiro&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</p>
 
 <p align="right">
   <a href="https://systemgang.blogspot.com/" title="Quer aprender um pouco sobre Estrutura de Dados?"><img src="https://img.shields.io/twitter/url?color=orange&label=System_Gang&logo=blogger&logoColor=white&style=plastic&url=https%3A%2F%2Fsystemgang.blogspot.com"></a>&nbsp;
