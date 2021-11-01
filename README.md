@@ -117,7 +117,8 @@
          </a>
       </p><br><br>
     </div>
-    <div><hr>  
+    <div>
+      <hr>  
       <h2 id="4" align="center"><br><br><samp>Contato Rápido</h2> 
       <p align="center">
         <a href="# "> 
