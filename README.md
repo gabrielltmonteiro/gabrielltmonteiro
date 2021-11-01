@@ -2,7 +2,7 @@
 <p align="right">  
   <a href="https://www.linkedin.com/in/gltm-jrsoftwaredeveloper"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" title="Já se conectou hoje?"/></a>&nbsp; 
   <a href="https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)&nbsp;" title="Upload das Lives" alt="Youtube"><img src="https://img.shields.io/badge/-YouTube-bb0000?style=flat&logo=YouTube&logoColor=white"/></a>&nbsp; 
-  <a href="https://github.com/gabrielltmonteiro" title="" alt=""><img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me"></a> 
+  <a href="https://github.com/gabrielltmonteiro?tab=followers" title="" alt=""><img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me"></a> 
 </p>
 <hr>
 <h1 id="1">:octocat:<samp>Olá, eu sou o Gabe!</h1>
