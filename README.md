@@ -9,7 +9,7 @@
 <ul><samp>
   <li>📚 Graduando em Sistemas de Informação e Web Designer pelo Senac.</li>
   <li>🐗 Atualmente estou focado em aprender JavaScript Object Notation, JAVA e C.</li>
-  <li>💻 Além de WSL 2, Windows Terminal, Power Shell, CMD, Bash, Zsh, VIM, Emacs, Virtual Machines, ferramentas Git e GitHub.</li>
+  <li>💻 Além de WSL 2, Windows Terminal, Power Shell, CMD, Bash, Zsh, VIM, Emacs, Linux, Distros, Server X, Virtual Machines, ferramentas Git e GitHub.</li>
 <!-- <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" target="_blank" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li> -->
 <!--<li> Pretendo aprender mais sobre Emacs, em breve!</li>-->
   <li>📝 Estou aprendendo <a href="https://github.com/vim/vim" target="_blank" title="VIM Editor">VIM</a> ativamente, utilizando massivamente seus comandos. 
