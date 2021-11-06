@@ -6,24 +6,25 @@
 </p>
 <hr>
 <h1 id="1">:octocat:<samp>Olá, eu sou Gabriel Monteiro!</h1>
-<ul><samp>
+<ul>
   <li>📚 Graduando em Sistemas de Informação e técnico em Web Design pelo Senac.</li>
   <li>🐗 Atualmente estou focado em aprender Json, JAVA e C.</li>
   <li>💻 Além de WSL 2, Windows Terminal, Power Shell, CMD, Bash, Zsh, VIM, Emacs, Virtual Machines, Git e GitHub.</li>
-  <li>💼 Hoje minha meta é desenvolver um Software de Controle Financeiro.
+  <li>💼 Hoje minha meta é desenvolver um Software de Controle Financeiro.</li>
+  <ul>
+    <li>✔️ Criei repositório inteiramente via comandos no terminal PowerShell.</li>
+    <li>✔️ CLI: init, add, commit, create, push and browse.</li>
+  </ul>
 <!--  
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" target="_blank" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
   <li> Pretendo aprender mais sobre Emacs, em breve!</li>
   <li>📝 Estou aprendendo <a href="https://github.com/vim/vim" target="_blank" title="VIM Editor">VIM</a> ativamente, utilizando massivamente seus comandos. 
   <li>📅 Diariamente utilizo <a href="https://github.com/qutebrowser/qutebrowser" target="_blank" title="Browser VIM-like">qutebrowser</a> que é um navegador do tipo VIM com navegação baseada em teclado e <a href="https://github.com/brookhong/Surfingkeys" target="_blank" title="Extension VIM-like">SurfingKeys</a> uma extensão que traz uma navegação no espírito VIM para o Browser, pra não deixar de praticar quando estiver usando o Firefox.</li> 
-  montar quadro de programação da twitch e colar essa tag depois de pretendo retornar <a href="https://www.twitch.tv/system_gang/schedule target="_blank" title="Próximas lives">em breve</a> outra ideia é colocar title="1 de janeiro" por exemplo
-  raxod502
--->
-  
+  montar quadro de programação da twitch e colar essa tag depois de pretendo retornar <a href="https://www.twitch.tv/system_gang/schedule target="_blank" title="Próximas lives">em breve</a> outra ideia é colocar title="1 de janeiro" por exemplo raxod502 
   <li>🎥 Fui Streamer da <a href="https://www.twitch.tv/system_gang" target="_blank" title="Roxinha">Twitch</a> e pretendo retornar.</li> 
-
-  <li>👨🏻‍💻 Veja também, algumas das <a href="#2" title="Antes clique em ver mais!">tecnologias que utilizo</a> no desenvolvimento e <a href="#3" title="Antes clique em ver mais!">outras ferramentas</a>.</li>
-  <li>🌠 E algumas <a href="#4" title="Antes clique em ver mais!">linguagens e tecnologias que vi brevemente</a></li>
+-->
+  <li>👨🏾‍💻 Veja também, algumas das <a href="#2" title="Antes clique em ver mais!">tecnologias que utilizo</a> para desenvolver, <a href="#3" title="Antes clique em ver mais!">outras ferramentas</a>.</li>
+  <li>🌠 e algumas <a href="#4" title="Antes clique em ver mais!">linguagens e tecnologias que vi brevemente</a></li>
 </ul><hr><br><br>
 </div>
 
