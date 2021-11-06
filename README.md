@@ -17,6 +17,7 @@
   <li>📝 Estou aprendendo <a href="https://github.com/vim/vim" target="_blank" title="VIM Editor">VIM</a> ativamente, utilizando massivamente seus comandos. 
   <li>📅 Diariamente utilizo <a href="https://github.com/qutebrowser/qutebrowser" target="_blank" title="Browser VIM-like">qutebrowser</a> que é um navegador do tipo VIM com navegação baseada em teclado e <a href="https://github.com/brookhong/Surfingkeys" target="_blank" title="Extension VIM-like">SurfingKeys</a> uma extensão que traz uma navegação no espírito VIM para o Browser, pra não deixar de praticar quando estiver usando o Firefox.</li> 
   montar quadro de programação da twitch e colar essa tag depois de pretendo retornar <a href="https://www.twitch.tv/system_gang/schedule target="_blank" title="Próximas lives">em breve</a> outra ideia é colocar title="1 de janeiro" por exemplo
+  raxod502
 -->
   
   <li>🎥 Fui Streamer da <a href="https://www.twitch.tv/system_gang" target="_blank" title="Roxinha">Twitch</a> e pretendo retornar.</li> 
@@ -152,17 +153,8 @@
 
 
 ![Snake animation](https://github.com/gabrielltmonteiro/gabrielltmonteiro/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
-
-
-
-
-<!--<a name=“section”><a/>
+<!--
+<a name=“section”><a/>
 --
 <p align="center"> <!--Minhas Linguagens Mais Usadas no GitHub -- >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielltmonteiro&theme=blue-white"></img>
