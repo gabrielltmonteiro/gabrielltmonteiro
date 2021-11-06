@@ -5,12 +5,12 @@
   <a href="https://github.com/gabrielltmonteiro?tab=followers" title="" alt=""><img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me"></a> 
 </p>
 <hr>
-<h1 id="1">:octocat:<samp>Olá, eu sou o Gabe!</h1>
+<h1 id="1">:octocat:<samp>Olá, eu sou Gabriel Monteiro!</h1>
 <ul><samp>
-  <li>📚 Graduando em Sistemas de Informação e Web Designer pelo Senac.</li>
-  <li>🐗 Atualmente estou focado em aprender JavaScript Object Notation, JAVA e C.</li>
-  <li>💻 Além de WSL 2, Windows Terminal, Power Shell, CMD, Bash, Zsh, VIM, Emacs, Linux, Distros, Server X, Virtual Machines, ferramentas Git e GitHub.</li>
-  
+  <li>📚 Graduando em Sistemas de Informação e técnico em Web Design pelo Senac.</li>
+  <li>🐗 Atualmente estou focado em aprender Json, JAVA e C.</li>
+  <li>💻 Além de WSL 2, Windows Terminal, Power Shell, CMD, Bash, Zsh, VIM, Emacs, Virtual Machines, Git e GitHub.</li>
+  <li>💼 Hoje minha meta é desenvolver um Software de Controle Financeiro.
 <!--  
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" target="_blank" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
   <li> Pretendo aprender mais sobre Emacs, em breve!</li>
