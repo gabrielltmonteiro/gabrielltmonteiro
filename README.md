@@ -5,8 +5,8 @@
   <a href="https://github.com/gabrielltmonteiro?tab=followers" title="" alt=""><img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me"></a> 
 </p>
 <hr>
-<h1 id="1">:octocat:<samp>Olá, eu sou Gabriel Monteiro!</h1>
-<ul>
+<h1 id="1">:octocat:<samp>Olá, eu sou Gabriel Monteiro!</samp></h1>
+<ul><samp>
   <li>📚 Graduando em Sistemas de Informação e técnico em Web Design pelo Senac.</li>
   <li>🐗 Atualmente estou focado em aprender Json, JAVA e C.</li>
   <li>💻 Além de WSL 2, Windows Terminal, Power Shell, CMD, Bash, Zsh, VIM, Emacs, Virtual Machines, Git e GitHub.</li>
@@ -24,7 +24,7 @@
 -->
   <li>👨🏾‍💻 Veja também, algumas das <a href="#2" title="Antes clique em ver mais!">tecnologias que utilizo</a> para desenvolver, <a href="#3" title="Antes clique em ver mais!">outras ferramentas</a>.</li>
   <li>🌠 e algumas <a href="#4" title="Antes clique em ver mais!">linguagens e tecnologias que vi brevemente</a></li>
-</ul><hr><br><br>
+<samp></ul><hr><br><br>
 </div>
 
 <div align="center">
