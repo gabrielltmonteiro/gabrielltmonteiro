@@ -13,7 +13,6 @@
   <li>💼 Hoje minha meta é desenvolver um Software de Controle Financeiro.</li>
   <ul>
     <li>✔️ Criei repositório inteiramente via comandos no terminal PowerShell.</li>
-    <li>✔️ CLI: init, add, commit, create, push and browse.</li>
   </ul>
 <!--  
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" target="_blank" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
