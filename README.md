@@ -10,9 +10,9 @@
   <li>📚 Graduando em Sistemas de Informação e técnico em Web Design pelo Senac.</li>
   <li>🐗 Atualmente estou focado em aprender Json, JAVA e C.</li>
   <li>💻 Além de WSL 2, Windows Terminal, Power Shell, CMD, Bash, Zsh, VIM, Emacs, Virtual Machines, Git e GitHub.</li>
-  <li>💼 Hoje minha meta é desenvolver um Software de Controle Financeiro.</li>
+  <li>💼 Hoje minha 3 principais metas são: desenvolver um Software de Controle Financeiro, desenvolver um software multiplataforma em 3 linguagens de tipos diferentes e entender praticar Banco de Dados.</li>
   <ul>
-    <li>✔️ Criei repositório inteiramente via comandos no terminal PowerShell.</li>
+    <li>✔️ Criei repositório inteiramente via comandos no PowerShell.</li>
   </ul>
 <!--  
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" target="_blank" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
