@@ -5,7 +5,7 @@
   <a href="https://github.com/gabrielltmonteiro?tab=followers" title="" alt=""><img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me"></a> 
 </p>
 <hr>
-<h1 id="1"><img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub"><samp>Olá, sou Gabriel Monteiro!</samp></h1>
+<h1 id="1"><img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Swimming Octocat"><samp>Olá, sou Gabriel Monteiro!</samp></h1>
 <ul><samp>
   <p>📚 <b>Graduando em Sistemas de Informação</b> e técnico em <b>Web Design</b> pelo Senac<br>
   🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b><br> 
