@@ -26,7 +26,7 @@
   <li>🎥 Fui Streamer da <a href="https://www.twitch.tv/system_gang" target="_blank" title="Roxinha">Twitch</a> e pretendo retornar.</li> 
 -->
 <p>
-<b>Em ver mais:</b>
+<h4>Em ver mais:</h4>
   <p>👨🏾‍💻 Veja também, algumas das <a href="#2" title="Antes clique em ver mais!">tecnologias que utilizo</a> para desenvolver, <a href="#3" title="Antes clique em ver mais!">outras ferramentas</a><br>
   🌠 e algumas <a href="#4" title="Antes clique em ver mais!">linguagens e tecnologias que vi brevemente</a> 
 <samp></ul><hr><br><br></p>
