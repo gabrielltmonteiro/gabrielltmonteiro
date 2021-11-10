@@ -7,17 +7,17 @@
 <hr>
 <h1 id="1">:octocat:<samp>Olá, sou Gabriel Monteiro!</samp></h1>
 <ul><samp>
-  <li>📚 <b>Graduando em Sistemas de Informação</b> e técnico em <b>Web Design</b> pelo Senac.</li>
-  <li>🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b>.</li>
-  <li>💻 Além de Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub.</li>
-  <li>💼 <b title="Uma distro GNU/Linux baseada em Debian.">Agora estou explorando Kali</b>
+  <p>📚 <b>Graduando em Sistemas de Informação</b> e técnico em <b>Web Design</b> pelo Senac<br>
+  🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b><br> 
+  💻 Além de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
+  ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub<br> 
+💼 <b title="Uma distro GNU/Linux baseada em Debian.">Agora estou explorando Kali</b><br></p>
 <!--
   <li>💼 Hoje minha 3 principais metas são: desenvolver um Software de Controle Financeiro, desenvolver um software multiplataforma em 3 linguagens de tipos diferentes e entender praticar Banco de Dados.</li>
   <ul>
     <li>✔️ Criei repositório inteiramente via comandos no PowerShell.</li>
   </ul>
--->
-<!--  
+--
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" target="_blank" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
   <li> Pretendo aprender mais sobre Emacs, em breve!</li>
   <li>📝 Estou aprendendo <a href="https://github.com/vim/vim" target="_blank" title="VIM Editor">VIM</a> ativamente, utilizando massivamente seus comandos. 
@@ -25,9 +25,11 @@
   montar quadro de programação da twitch e colar essa tag depois de pretendo retornar <a href="https://www.twitch.tv/system_gang/schedule target="_blank" title="Próximas lives">em breve</a> outra ideia é colocar title="1 de janeiro" por exemplo raxod502 
   <li>🎥 Fui Streamer da <a href="https://www.twitch.tv/system_gang" target="_blank" title="Roxinha">Twitch</a> e pretendo retornar.</li> 
 -->
-  <li>👨🏾‍💻 Veja também, algumas das <a href="#2" title="Antes clique em ver mais!">tecnologias que utilizo</a> para desenvolver, <a href="#3" title="Antes clique em ver mais!">outras ferramentas</a>.</li>
-  <li>🌠 e algumas <a href="#4" title="Antes clique em ver mais!">linguagens e tecnologias que vi brevemente</a></li>
-<samp></ul><hr><br><br>
+<p>
+<b>Em ver mais:</b>
+  <p>👨🏾‍💻 Veja também, algumas das <a href="#2" title="Antes clique em ver mais!">tecnologias que utilizo</a> para desenvolver, <a href="#3" title="Antes clique em ver mais!">outras ferramentas</a><br>
+  🌠 e algumas <a href="#4" title="Antes clique em ver mais!">linguagens e tecnologias que vi brevemente</a> 
+<samp></ul><hr><br><br></p>
 </div>
 
 <div align="center">
