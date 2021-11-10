@@ -5,15 +5,18 @@
   <a href="https://github.com/gabrielltmonteiro?tab=followers" title="" alt=""><img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me"></a> 
 </p>
 <hr>
-<h1 id="1">:octocat:<samp>Olá, eu sou Gabriel Monteiro!</samp></h1>
+<h1 id="1">:octocat:<samp>Olá, sou Gabriel Monteiro!</samp></h1>
 <ul><samp>
-  <li>📚 Graduando em Sistemas de Informação e técnico em Web Design pelo Senac.</li>
-  <li>🐗 Atualmente estou focado em aprender Json, JAVA e C.</li>
-  <li>💻 Além de WSL 2, Windows Terminal, Power Shell, CMD, Bash, Zsh, VIM, Emacs, Virtual Machines, Git e GitHub.</li>
+  <li>📚 Graduando em <b>Sistemas de Informação</b> e técnico em <b>Web Design</b> pelo Senac.</li>
+  <li>🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b>.</li>
+  <li>💻 Além de WSL 2, Windows Terminal, Power Shell, CMD, GNU/Linux, Bash, Zsh, VIM, Emacs, Virtual Machines, Git e GitHub.</li>
+  <li>💼 <b>Agora</b>, estou explorando a Distro Baseada em Debian, Kali GNU/Linux.
+<!--
   <li>💼 Hoje minha 3 principais metas são: desenvolver um Software de Controle Financeiro, desenvolver um software multiplataforma em 3 linguagens de tipos diferentes e entender praticar Banco de Dados.</li>
   <ul>
     <li>✔️ Criei repositório inteiramente via comandos no PowerShell.</li>
   </ul>
+-->
 <!--  
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" target="_blank" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
   <li> Pretendo aprender mais sobre Emacs, em breve!</li>
