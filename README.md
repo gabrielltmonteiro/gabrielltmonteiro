@@ -7,10 +7,10 @@
 <hr>
 <h1 id="1">:octocat:<samp>Olá, sou Gabriel Monteiro!</samp></h1>
 <ul><samp>
-  <li>📚 Graduando em <b>Sistemas de Informação</b> e técnico em <b>Web Design</b> pelo Senac.</li>
+  <li>📚 <b>Graduando em Sistemas de Informação</b> e técnico em <b>Web Design</b> pelo Senac.</li>
   <li>🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b>.</li>
-  <li>💻 Além de WSL 2, Windows Terminal, Power Shell, CMD, GNU/Linux, Bash, Zsh, VIM, Emacs, Virtual Machines, Git e GitHub.</li>
-  <li>💼 <b>Agora</b>, estou explorando a Distro Baseada em Debian, Kali GNU/Linux.
+  <li>💻 Além de Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub.</li>
+  <li>💼 <b title="Uma distro GNU/Linux baseada em Debian.">Agora estou explorando Kali</b>
 <!--
   <li>💼 Hoje minha 3 principais metas são: desenvolver um Software de Controle Financeiro, desenvolver um software multiplataforma em 3 linguagens de tipos diferentes e entender praticar Banco de Dados.</li>
   <ul>
