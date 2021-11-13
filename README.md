@@ -58,7 +58,7 @@
   <summary><samp><b>Ver Mais / Menos</b></summary>
   <section>
     <div><hr>
-      <h2 id="2" align="center"><br><br><samp>Softwares e Linguagens</h2> 
+      <h2 id="2" align="center"><br><br><samp>Linguagens e Softwares</h2> 
       <p align="center">
         <a href="# ">
           <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Back-end: Java"/>
