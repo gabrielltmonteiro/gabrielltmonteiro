@@ -25,11 +25,16 @@
   montar quadro de programação da twitch e colar essa tag depois de pretendo retornar <a href="https://www.twitch.tv/system_gang/schedule target="_blank" title="Próximas lives">em breve</a> outra ideia é colocar title="1 de janeiro" por exemplo raxod502 
   <li>🎥 Fui Streamer da <a href="https://www.twitch.tv/system_gang" target="_blank" title="Roxinha">Twitch</a> e pretendo retornar.</li> 
 -->
-<p>
+</p>
 <h4>Em ver mais:</h4>
   <p>👨🏾‍💻 Veja também, algumas das <a href="#2" title="Antes clique em ver mais!">tecnologias que utilizo</a> para desenvolver, <a href="#3" title="Antes clique em ver mais!">outras ferramentas</a><br>
   🌠 e algumas <a href="#4" title="Antes clique em ver mais!">linguagens e tecnologias que vi brevemente</a> 
-<samp></ul><hr><br><br></p>
+<samp></ul><hr>
+  </p>
+  <p align="right">
+    <a href="https://itch.io/jam/game-off-2021" title="Game Off 2021: Theme is Bug!"><img src="https://img.itch.zone/aW1nLzczNDcyNzEuZ2lm/original/UOkI%2BG.gif"/>
+    </a>
+  </p>
 </div>
 
 <div align="center">
