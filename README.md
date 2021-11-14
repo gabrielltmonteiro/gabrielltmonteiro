@@ -11,7 +11,8 @@
   🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b><br> 
   💻 Além de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
   ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub<br> 
-  💼 <b title="Uma distro GNU/Linux baseada em Debian.">Agora estou estudando Redes, Ubuntu e Shell Script</b><br></p>
+  💼 <b title="Uma distro GNU/Linux baseada em Debian."Now I'm exploiting Parrot in HTB</b><br></p>
+  
 <!--
   <li>💼 Hoje minha 3 principais metas são: desenvolver um Software de Controle Financeiro, desenvolver um software multiplataforma em 3 linguagens de tipos diferentes e entender praticar Banco de Dados.</li>
   <ul>
@@ -25,6 +26,7 @@
   montar quadro de programação da twitch e colar essa tag depois de pretendo retornar <a href="https://www.twitch.tv/system_gang/schedule target="_blank" title="Próximas lives">em breve</a> outra ideia é colocar title="1 de janeiro" por exemplo raxod502 
   <li>🎥 Fui Streamer da <a href="https://www.twitch.tv/system_gang" target="_blank" title="Roxinha">Twitch</a> e pretendo retornar.</li> 
 -->
+  
 </p>
 <h4>Em ver mais:</h4>
   <p>👨🏾‍💻 Veja também, algumas das <a href="#2" title="Antes clique em ver mais!">tecnologias que utilizo</a> para desenvolver, <a href="#3" title="Antes clique em ver mais!">outras ferramentas</a><br>
