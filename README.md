@@ -11,7 +11,7 @@
   🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b><br> 
   💻 Além de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
   ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub<br> 
-    💼 <b title="">Agora, Fundamentos Linux:<br><ul><li>História,</li><li>Filosofia,</li> <li>Componentes,</li> <li>Arquitetura,</li> <li>Hierarquia de arquivos,</li>  <li>Shell</li></ul></b><br></p>
+    💼 <b title="">Agora, desenvolvendo habilidade de obter informações do sistema.</b><br></p>
   
 <!--
   <li>💼 Hoje minha 3 principais metas são: desenvolver um Software de Controle Financeiro, desenvolver um software multiplataforma em 3 linguagens de tipos diferentes e entender praticar Banco de Dados.</li>
