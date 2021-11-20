@@ -11,8 +11,8 @@
   🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b><br> 
   💻 Além de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
   ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub<br> 
-   🥷🏾 Ontem, vários fóruns de Marketing Digital e de Gestão de Projetos em Tecnologia da Informação<br>
-  💼 <b title="De 00:00 as 4:50 hs, 11:00 até agora - 20 de novembro de 2021">Hoje, redes.</b><br></p>
+   🥷🏾 Ontem, fóruns de marketing digital e gestão de projetos em TI<br>
+  💼 <b title="20nov">Agora, estudando sobre redes.</b><br></p>
   
 <!--
   <li>💼 Hoje minha 3 principais metas são: desenvolver um Software de Controle Financeiro, desenvolver um software multiplataforma em 3 linguagens de tipos diferentes e entender praticar Banco de Dados.</li>
