@@ -12,7 +12,7 @@
   💻 Além de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
   ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub<br> 
    🥷🏾 Ontem realizei fóruns de Marketing Digital e de Gestão de Projetos em Tecnologia da Informação<br>
-  💼 <b title="Há 2:40 hs - 20 de novembro de 2021">Agora, estou estudando sobre Redes.</b><br></p>
+  💼 <b title="Da 00:00 as 4:50 hs - 20 de novembro de 2021">Agora, estudando sobre Redes.</b><br></p>
   
 <!--
   <li>💼 Hoje minha 3 principais metas são: desenvolver um Software de Controle Financeiro, desenvolver um software multiplataforma em 3 linguagens de tipos diferentes e entender praticar Banco de Dados.</li>
