@@ -11,7 +11,7 @@
   🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b><br> 
   💻 Além de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
   ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub<br> 
-  💼 <b title="20nov">Agora, analisando distribuições GNU Linux e estudando comandos do CMD (Windows 10).</b><br></p>
+  💼 <b title="20nov">Agora, analisando distribuições GNU Linux, estudando redes e comandos no CMD (Windows 10).</b><br></p>
   
 <!--
   Software de Controle Financeiro, software multiplataforma em 3 linguagens de tipos diferentes, entender e praticar Banco de Dados.
