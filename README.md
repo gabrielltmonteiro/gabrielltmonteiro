@@ -11,7 +11,7 @@
   🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b><br> 
   💻 Além de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
   ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub<br> 
-  💼 <b title="28nov">Agora, realizando prova sobre os 4 P's da empresa e os 8 P's do Marketing Digital.</b><br></p>
+  💼 <b title="">Agora, me aprimorando em Marketing Digital e Sistemas de Apoio a Decisão.</b><br></p>
   
 <!--
   Software de Controle Financeiro, software multiplataforma em 3 linguagens de tipos diferentes, entender e praticar Banco de Dados.
