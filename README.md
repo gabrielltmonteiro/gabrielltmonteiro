@@ -11,7 +11,7 @@
   🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b><br> 
   💻 Além de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
   ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub<br> 
-  💼 <b title="20:00">Agora, estou estudando redes, vpn e roteadores e mais tarde, estudarei sobre sistemas de apoio a decisão.</b><br></p>
+  💼 <b title="5dez21">Agora, estou estudando Sistema de Apoio à Decisão do tipo Business Intelligence, mais especificamente a parte teórica de Data Warehouse.</b><br></p>
   
 <!--
   Software de Controle Financeiro, software multiplataforma em 3 linguagens de tipos diferentes, entender e praticar Banco de Dados.
