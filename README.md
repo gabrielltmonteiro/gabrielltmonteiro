@@ -11,7 +11,7 @@
   🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b><br> 
   💻 Além de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
   ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub<br> 
-  💼 <b title="6dez21">Atualmente, estou realizando o planejamento estratégico da escolha de software e fornecedor pautado resspaldado na análise de critérios.</b><br></p>
+  💼 <b title="">Atualmente, estabelecendo o plano estratégico da escolha de software e fornecedor pautado resspaldado na análise de critérios.</b><br></p>
   
 <!--
   Software de Controle Financeiro, software multiplataforma em 3 linguagens de tipos diferentes, entender e praticar Banco de Dados.
