@@ -10,11 +10,12 @@
   <p>📚 <b>Graduando em Sistemas de Informação</b> e técnico em <b>Web Design</b> pelo Senac<br>
   🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b><br> 
   💻 Além de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
-  ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub<br> 
-  <br>
+  ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub
+  💼 <b title="">Atualmente, refazendo curso de Java Básico, visando melhorar meus fundamentos e reforçar Orientação a Objeto com o Curso posterior.</b></p>  
+  <br><br>
   
 <!--
-  💼 <b title="">Atualmente, estabelecendo o plano estratégico da escolha de software e fornecedor pautado resspaldado na análise de critérios.</b></p>
+  
   Software de Controle Financeiro, software multiplataforma em 3 linguagens de tipos diferentes, entender e praticar Banco de Dados.
   praticando Emacs
   <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" target="_blank" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
