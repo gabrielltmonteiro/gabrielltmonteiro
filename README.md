@@ -10,7 +10,7 @@
   <p>📚 <b>Graduando em Sistemas de Informação</b> e técnico em <b>Web Design</b> pelo Senac<br>
   🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b><br> 
   💻 Além de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
-  ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub
+  ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub<br>
   💼 <b title="">Atualmente, refazendo curso de Java Básico, visando melhorar meus fundamentos e reforçar Orientação a Objeto com o Curso posterior.</b></p>  
   <br><br>
   
