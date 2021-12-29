@@ -11,7 +11,7 @@
   🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b><br> 
   💻 Além de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
   ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub<br>
-<!--💼 <b title="">Atualmente, refazendo curso de <a href="https://github.com/gabrielltmonteiro/JavaBasico">Java Básico</a>, visando melhorar meus fundamentos e reforçar Orientação a Objeto com o Curso posterior.</b></p>  -->
+  💼 <b title="">Atualmente, refazendo curso de <a href="https://github.com/gabrielltmonteiro/JavaBasico">Java Básico</a>, visando melhorar meus fundamentos e reforçar Orientação a Objeto com o Curso posterior.</b></p>  
   <br><br>
   
 <!--
