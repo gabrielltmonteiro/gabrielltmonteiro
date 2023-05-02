@@ -8,10 +8,12 @@
 <h1 id="1"><img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Swimming Octocat"><samp>Olá, sou Gabriel Monteiro!</samp></h1>
 <ul><samp>
   <p>📚 <b>Graduando em Sistemas de Informação</b> e técnico em <b>Web Design</b> pelo Senac<br>
-  🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>JSON, JAVA e C</b><br> 
-  💻 Além de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
-  ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Emacs, Git e GitHub<br>
-  💼 <b title="">Atualmente, refazendo curso de <a href="https://github.com/gabrielltmonteiro/JavaBasico">Java Básico</a>, visando melhorar meus fundamentos e reforçar Orientação a Objeto com o Curso posterior.</b></p>  
+  🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>C# e JavaScript</b><br> 
+  💻 Gosto de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
+  ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Git e GitHub<br>
+  💼 Trabalho com atendimento nítvel 2 e recentemente como tester. Aprendo constantemente sobre Bancos de dados relacionais e requisições, utilizando-me diariamente de ferramentas como Dev Tools, DBeaver, VS Code, Postman e PowerShell. </p>
+  <!-- Cursos que estou fazendo! -->
+  <!-- Adicionar em Linguagens, JavaScript, C# e Json.
   <br><br>
   
 <!--
@@ -25,7 +27,7 @@
   
 </p>
 <h4>Em ver mais:</h4>
-  <p>👨🏾‍💻 Veja também, algumas das <a href="#2" title="Antes clique em ver mais!">tecnologias que utilizo</a> para desenvolver, <a href="#3" title="Antes clique em ver mais!">outras ferramentas</a><br>
+  <p>👨🏾‍💻 Veja também, algumas das <a href="#2" title="Antes clique em ver mais!">tecnologias que utilizo</a> para me desenvolver, <a href="#3" title="Antes clique em ver mais!">outras ferramentas</a><br>
   🌠 e algumas <a href="#4" title="Antes clique em ver mais!">linguagens e tecnologias que vi brevemente</a> 
 <samp></ul><hr>
 </div>
