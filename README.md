@@ -162,7 +162,6 @@
 4/12 - Economia
 -->
 
-![Snake animation](https://github.com/gabrielltmonteiro/gabrielltmonteiro/blob/output/github-contribution-grid-snake.svg)
 <!-- ABOUT MARKDOWN AND GH STATUS
 <a name=“section”><a/>
 --
