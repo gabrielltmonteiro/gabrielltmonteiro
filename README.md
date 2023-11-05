@@ -55,101 +55,45 @@
     <div><hr>
       <h2 id="2" align="center"><br><br><samp>Linguagens e Softwares</h2> 
       <p align="center">
-        <a href="# ">
-          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Back-end: Java"/>
-        </a>
-        <a href="# ">
-          <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="Front-end: HTML5"/>
-        </a>
-        <a href="# ">  
-          <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="Front-end: CSS3"/>
-        </a>
-        <a href="# ">  
-          <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript" title=Front-end: "JavaScript"/>
-        </a>
-        <a href="# ">
-          <img src="https://img.shields.io/badge/game%20maker%20language%20-%23e8e6e8.svg?&style=for-the-badge&logo=gml&logoColor=white" alt="Game Maker Studio 2" title="Linguagem de Programação de Games: Game Maker Language"/> 
-        </a>
-        <a href="# ">
-          <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" title="Linguagem de Marcação: Markdown"/>
-        </a>
-        <a href="# ">  
-          <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Versionamento: Git"/>
-        </a>
-        <a href="# "> 
-          <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="Versionamento: GitHub"/>
-        </a>
-        <a href="# "> 
-          <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" title="Editor: VSCode"/>
-        </a>
-        <a href="# ">
-          <img src="https://img.shields.io/badge/-Netbeans-42588f?style=for-the-badge&logo=netbeans-ide&logoColor=white" alt="Netbeans" title="IDE: Netbeans"/>
-        </a>
-        <a href="# ">  
-          <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" title="IDE: Eclipse"/>
-        </a>
-        <a href="# "> 
-          <img src="https://img.shields.io/badge/repl.it%20-%23e8e6e8.svg?style=for-the-badge&logo=repl.it&logoColor=000" alt="Repl.it" title="IDE Online: Repl.it"/>
-        </a>
-        <a href="# ">  
-          <img src="https://img.shields.io/badge/blogger%20-%23ff5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" title="Blog: Blogger"/>
-        </a>
-        <a href="# ">  
-          <img src="https://img.shields.io/badge/wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" title="Blog: Wordpress"/>
-        </a>
-        <a href="# ">  
-          <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glitch" title="Ambiente de Desenvolvimento Online: Glitch"/>
-        </a>
-        <a href="# ">  
-          <img src="https://img.shields.io/badge/game%20maker%20studio%202%20-%23000.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Game Maker Studio 2" title="Engine: Game Maker Studio 2"/>                                                                                                                                         
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/VirtualBox%20-%23000070.svg?&style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Box" title="Virtualização: Virtual Box"/>
-        </a>
+          <a href="# "><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Back-end: Java"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="Front-end: HTML5"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="Front-end: CSS3"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript" title=Front-end: "JavaScript"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/game%20maker%20language%20-%23e8e6e8.svg?&style=for-the-badge&logo=gml&logoColor=white" alt="Game Maker Studio 2" title="Linguagem de Programação de Games: Game Maker Language"/></a> 
+          <a href="# "><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" title="Linguagem de Marcação: Markdown"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Versionamento: Git"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="Versionamento: GitHub"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" title="Editor: VSCode"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/-Netbeans-42588f?style=for-the-badge&logo=netbeans-ide&logoColor=white" alt="Netbeans" title="IDE: Netbeans"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" title="IDE: Eclipse"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/repl.it%20-%23e8e6e8.svg?style=for-the-badge&logo=repl.it&logoColor=000" alt="Repl.it" title="IDE Online: Repl.it"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/blogger%20-%23ff5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" title="Blog: Blogger"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress" title="Blog: Wordpress"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white" alt="Glitch" title="Ambiente de Desenvolvimento Online: Glitch"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/game%20maker%20studio%202%20-%23000.svg?&style=for-the-badge&logo=game-maker&logoColor=white" alt="Game Maker Studio 2" title="Engine: Game Maker Studio 2"/></a>
+          <a href="# "><img src="https://img.shields.io/badge/VirtualBox%20-%23000070.svg?&style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Box" title="Virtualização: Virtual Box"/></a>
       </p><br><br>                                                                                                                                                    
     </div>
     <div><hr>
       <h2 id="3" align="center"><br><br><samp>Outras Ferramentas</h2> 
       <p align="center"><!-- Booking, DroidCam, VoiceMeeter Banana e Audacity. -->
-        <a href="# ">
-          <img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" title="Design: Photoshop"/>
-        </a>
-        <a href="# ">  
-          <img src="https://img.shields.io/badge/Fireworks%20-%23F7DF1E.svg?&style=for-the-badge&logo=adobe&logoColor=323330" alt="Fireworks" title="Design: Fireworks"/>
-        </a>
-        <a href="# "> 
-          <img src="https://img.shields.io/badge/Streamlabs%20-%231fe9c8.svg?&style=for-the-badge" alt="Streamlabs" title="Live Stream: Streamlabs"/>
-        </a>
-        <a href="# "> 
-          <img src="https://img.shields.io/badge/OBS%20Studio-%23000.svg?&style=for-the-badge&logo=obs%20studio&logoColor=fff" alt="OBS Studio" title="Live Stream: OBS Studio"/>
-        </a>
-        <a href="# "> 
-          <img src="https://img.shields.io/badge/trello%20-%2300b8ee.svg?&style=for-the-badge&logo=trello&logoColor=white" alt="Trello" title="Organização: Trello"/>
-        </a>
-        <a href="# "> 
-          <img src="https://img.shields.io/badge/evernote%20-%233aae00.svg?&style=for-the-badge&logo=evernote&logoColor=ffffff" alt="Evernote" title="Organização: Evernote"/>
-         </a>
+        <a href="# "><img src="https://img.shields.io/badge/Photoshop%20-%23000070.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" title="Design: Photoshop"/></a>
+        <a href="# "><img src="https://img.shields.io/badge/Fireworks%20-%23F7DF1E.svg?&style=for-the-badge&logo=adobe&logoColor=323330" alt="Fireworks" title="Design: Fireworks"/></a>
+        <a href="# "><img src="https://img.shields.io/badge/Streamlabs%20-%231fe9c8.svg?&style=for-the-badge" alt="Streamlabs" title="Live Stream: Streamlabs"/></a>
+        <a href="# "><img src="https://img.shields.io/badge/OBS%20Studio-%23000.svg?&style=for-the-badge&logo=obs%20studio&logoColor=fff" alt="OBS Studio" title="Live Stream: OBS Studio"/></a>
+        <a href="# "><img src="https://img.shields.io/badge/trello%20-%2300b8ee.svg?&style=for-the-badge&logo=trello&logoColor=white" alt="Trello" title="Organização: Trello"/></a>
+        <a href="# "><img src="https://img.shields.io/badge/evernote%20-%233aae00.svg?&style=for-the-badge&logo=evernote&logoColor=ffffff" alt="Evernote" title="Organização: Evernote"/></a>
       </p><br><br>
     </div>
     <div>
       <hr>  
       <h2 id="4" align="center"><br><br><samp>Contato Rápido</h2> 
       <p align="center">
-        <a href="# "> 
-          <img src="https://img.shields.io/badge/GitLab%20-%2314354C.svg?&style=for-the-badge&logo=gitlab" alt="GitLab" title="IDE Online:      GitLab      "/>
-        </a>
-        <a href="# "> 
-          <img src="https://img.shields.io/badge/Codepen%20-%2314354C.svg?&style=for-the-badge&logo=codepen" alt="Python" title="Editor Online:      CodePen      "/>
-        </a>
-        <a href="# "> 
-          <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=python" alt="Python" title="Linguagem de Programação: Python"/>
-        </a>
-        <a href="# "> 
-          <img src="https://img.shields.io/badge/PHP-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="Linguagem de Programação: PHP"/>
-        </a>
-        <a href="# ">
-          <img src="https://img.shields.io/badge/language-%2314354C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação: C"/>
-        </a> 
+        <a href="# "><img src="https://img.shields.io/badge/GitLab%20-%2314354C.svg?&style=for-the-badge&logo=gitlab" alt="GitLab" title="IDE Online:      GitLab      "/></a>
+        <a href="# "><img src="https://img.shields.io/badge/Codepen%20-%2314354C.svg?&style=for-the-badge&logo=codepen" alt="Python" title="Editor Online:      CodePen      "/></a>
+        <a href="# "><img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=python" alt="Python" title="Linguagem de Programação: Python"/></a>
+        <a href="# "><img src="https://img.shields.io/badge/PHP-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="Linguagem de Programação: PHP"/></a>
+        <a href="# "><img src="https://img.shields.io/badge/language-%2314354C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação: C"/></a>
       </p><br><br><hr>   
     </section>
 </details>       
