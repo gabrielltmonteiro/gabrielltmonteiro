@@ -10,7 +10,7 @@
   <p>📚 <b>Graduando em Sistemas de Informação</b> e técnico em <b>Web Design</b> pelo Senac<br>
   🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>C# e JavaScript</b><br> 
   💻 Gosto de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
-  ✔️ Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Git e GitHub<br>
+  ✔️  Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Git e GitHub<br>
   💼 Trabalho com atendimento nítvel 2 e recentemente como tester. Aprendo constantemente sobre Bancos de dados relacionais e requisições, utilizando-me diariamente de ferramentas como Dev Tools, DBeaver, VS Code, Postman e PowerShell. </p>
   <!-- Cursos que estou fazendo! -->
   <!-- Adicionar em Linguagens, JavaScript, C# e Json.
