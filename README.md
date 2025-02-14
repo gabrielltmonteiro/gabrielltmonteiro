@@ -1,35 +1,18 @@
 <div>
 <p align="right">  
-  <a href="https://www.linkedin.com/in/gltm-jrsoftwaredeveloper"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" title="Já se conectou hoje?"/></a>&nbsp; 
-  <a href="https://www.youtube.com/channel/UC3i5QneYxOtgJUV0e1ZfQAQ/)&nbsp;" title="Upload das Lives" alt="Youtube"><img src="https://img.shields.io/badge/-YouTube-bb0000?style=flat&logo=YouTube&logoColor=white"/></a>&nbsp; 
+  <a href="https://www.linkedin.com/in/gltm-jrsoftwaredeveloper"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" title="Já se conectou hoje?"/></a>&nbsp;  
   <a href="https://github.com/gabrielltmonteiro?tab=followers" title="" alt=""><img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me"></a> 
 </p>
 <hr>
 <h1 id="1"><img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Swimming Octocat"><samp>Olá, sou Gabriel Monteiro!</samp></h1>
 <ul><samp>
-  <p>📚 <b>Graduando em Sistemas de Informação</b> e técnico em <b>Web Design</b> pelo Senac<br>
-  🐗 Atualmente estou focado em desenvolver minhas habilidades com <b>C# e JavaScript</b><br> 
-  💻 Gosto de estudar sobre terminais, virtualização, editores e ferramentas de versionamento<br>
-  ✔️  Power Shell, Bash, Zsh, CMD, Windows Terminal, WSL 2, Virtual Machines, GNU/Linux, VIM, Git e GitHub<br>
-  💼 Trabalho com atendimento nítvel 2 e recentemente como tester. Aprendo constantemente sobre Bancos de dados relacionais e requisições, utilizando-me diariamente de ferramentas como Dev Tools, DBeaver, VS Code, Postman e PowerShell. </p>
-  <!-- Cursos que estou fazendo! -->
-  <!-- Adicionar em Linguagens, JavaScript, C# e Json.
-  <br><br>
-  
-<!--
-  
-  Software de Controle Financeiro, software multiplataforma em 3 linguagens de tipos diferentes, entender e praticar Banco de Dados.
-  praticando Emacs
-  <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" target="_blank" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
-  Montar quadro de programação da twitch e colar essa tag depois de pretendo retornar <a href="https://www.twitch.tv/system_gang/schedule target="_blank" title="Próximas lives">em breve</a> outra ideia é colocar title="1 de janeiro" por exemplo raxod502 
-  <li>🎥 Fui Streamer da <a href="https://www.twitch.tv/system_gang" target="_blank" title="Roxinha">Twitch</a> e pretendo retornar.</li> 
--->
-  
-</p>
-<h4>Em ver mais:</h4>
-  <p>👨🏾‍💻 Veja também, algumas das <a href="#2" title="Antes clique em ver mais!">tecnologias que utilizo</a> para me desenvolver, <a href="#3" title="Antes clique em ver mais!">outras ferramentas</a><br>
-  🌠 e algumas <a href="#4" title="Antes clique em ver mais!">linguagens e tecnologias que vi brevemente</a> 
-<samp></ul><hr>
+  <p>🎓 Cursando <b>MBA em Segurança da Informação</b>, Especialista em <b>Ethical Hacking and Cybersecurity</b>, Bacharel em <b>Sistemas de Informação</b> e Técnico em <b>Web Design</b><br>
+  <p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="12"> Focado em <b>Python</b> e <b>SQL</b><br></p> 
+  <p>💻 Apaixonado por Shells, virtualização, GNU/Linux e editores de texto<br>
+  <blockquote>✔️ Power Shell, Bash, Zsh, Dash, Fish, CMD e Windows Terminal. Virtual Machines e WSL 2. Kali, Ubuntu e Parrot. VS Code e VIM.<br></blockquote></p>
+  💼 Trabalhei como Suporte nítvel 2 e como Tester. Aprendia constantemente sobre Bancos de dados relacionais e requisições, utilizando-me diariamente de ferramentas como Dev Tools, Postman, DBeaver, VS Code e PowerShell. </p>
+ 
+
 </div>
 
 <div align="center">
@@ -42,17 +25,13 @@
 </div>
   
 <div>
-<!-- 
-  <p align="right">
-  <a href="https://systemgang.blogspot.com/" title="Quer aprender um pouco sobre Estrutura de Dados?"><img src="https://img.shields.io/twitter/url?color=orange&label=System_Gang&logo=blogger&logoColor=white&style=flat&url=https%3A%2F%2Fsystemgang.blogspot.com"></a>&nbsp;
-   <a href="https://senhordesenvolvedor.wordpress.com/" title="Apenas para Newbies: Ambiente Java!"><img src="https://img.shields.io/twitter/url?color=white&label=Sr.%20Desenvolvedor&logo=wordpress&style=flat&url=https%3A%2F%2Fsenhordesenvolvedor.wordpress.com%2F"></a>&nbsp;
-   <a href="https://twitch.tv/system_gang" title="Volto já!☕"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/system_gang?color=d60087&label=Live&logo=twitch&logoColor=white"></a>&nbsp; 
-   <a href="https://discord.gg/Bu78wBZ" title="Que tal bater um papo?"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a> 
-</p>--><br>
-</div>
-<details>
-  <summary><samp><b>Ver Mais / Menos</b></summary>
-  <section>
+ 
+  <!--<p align="right"> 
+    <a href="https://systemgang.blogspot.com/" title="Quer aprender um pouco sobre Estrutura de Dados?"><img src="https://img.shields.io/twitter/url?color=orange&label=System_Gang&logo=blogger&logoColor=white&style=flat&url=https%3A%2F%2Fsystemgang.blogspot.com"></a>&nbsp;
+     <a href="https://senhordesenvolvedor.wordpress.com/" title="Apenas para Newbies: Ambiente Java!"><img src="https://img.shields.io/twitter/url?color=white&label=Sr.%20Desenvolvedor&logo=wordpress&style=flat&url=https%3A%2F%2Fsenhordesenvolvedor.wordpress.com%2F"></a>&nbsp;
+     <a href="https://twitch.tv/system_gang" title="Volto já!☕"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/system_gang?color=d60087&label=Live&logo=twitch&logoColor=white"></a>&nbsp; 
+     <a href="https://discord.gg/Bu78wBZ" title="Que tal bater um papo?"><img alt="Discord" src="https://img.shields.io/discord/750976315880112189?color=green&label=Chat&logo=discord&logoColor=white"></a> -->
+</p> <br>
     <div><hr>
       <h2 id="2" align="center"><br><br><samp>Linguagens e Softwares</h2> 
       <p align="center">
@@ -96,17 +75,18 @@
         <a href="# "><img src="https://img.shields.io/badge/PHP-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="Linguagem de Programação: PHP"/></a>
         <a href="# "><img src="https://img.shields.io/badge/language-%2314354C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="Linguagem de Programação C" title="Linguagem de Programação: C"/></a>
       </p><br><br><hr>   
-    </section>
-</details>       
-</div>
-<!-- criar nova section para mostrar meu calendário do mês, o que estudei cada dia! -->
-<!-- Modelo
-1/12 - Marketing Digital
-2/12 - Sistemas de Apoio a Decisão
-3/12 - Política
-4/12 - Economia
+    </div>
+        
+<!-- Cursos que estou fazendo! >>>> ... Git e GitHub
+  <!-- Adicionar em Linguagens, JavaScript, C# e Json.
+  <br><br>
+  <!--
+  Software de Controle Financeiro, software multiplataforma em 3 linguagens de tipos diferentes, entender e praticar Banco de Dados.
+  praticando Emacs
+  <li>📝 Escrevo neste <a href="https://systemgang.blogspot.com" target="_blank" title="System_Gang">Blog</a>, porque acredito que o conhecimento deve ser compartilhado.</li>
+  Montar quadro de programação da twitch e colar essa tag depois de pretendo retornar <a href="https://www.twitch.tv/system_gang/schedule target="_blank" title="Próximas lives">em breve</a> outra ideia é colocar title="1 de janeiro" por exemplo raxod502 
+  <li>🎥 Fui Streamer da <a href="https://www.twitch.tv/system_gang" target="_blank" title="Roxinha">Twitch</a> e pretendo retornar.</li> 
 -->
-
 <!-- ABOUT MARKDOWN AND GH STATUS
 <a name=“section”><a/>
 --
@@ -133,4 +113,14 @@ trabalhando em.. aprendendo a.. colaborando com.. procurando ajuda para.. me per
 <a href="#ancora">Âncora HTML</a>            //Âncora HTML
 <h2 id="ancora">Âncora HTML</h2>
 //<h2 name="ancora">Âncora HTML</h2>         //Funciona Também
+
+
+<!--Toggle >v -- >
+<details>
+  <summary><samp><b>Ver Mais / Menos</b></summary>
+  <section>
+    <div>
+    </div>
+  </section>
+</details>
 -->
