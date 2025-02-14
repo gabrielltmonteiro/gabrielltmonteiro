@@ -11,7 +11,7 @@
   <p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="12"> Focado em <b>Python</b> e <b>SQL</b><br></p> 
   <p><img src="https://cdn.terminaltrove.com/m/38488c40-b2f2-432b-af8a-91cf0d1ad9b7.png" alt="Hyper Logo" width="20"> Apaixonado por Shells, virtualização, GNU/Linux e editores de texto<br>
   <blockquote>✔️ Power Shell, Bash, Zsh, Dash, Fish, CMD e Windows Terminal. Virtual Machines e WSL 2. Kali, Ubuntu e Parrot. VS Code e VIM.<br></blockquote></p>
-  💼 Trabalhei como Suporte nítvel 2 e como Tester. Aprendia constantemente sobre Bancos de dados relacionais e requisições, utilizando-me diariamente de ferramentas como Dev Tools, Postman, DBeaver, VS Code e PowerShell. </p><br>
+  💼 Trabalhei como Suporte nível 2 e como Tester. Aprendia constantemente sobre Bancos de dados relacionais e requisições, utilizando-me diariamente de ferramentas como Dev Tools, Postman, DBeaver, VS Code e PowerShell. </p><br>
 </div>
 <div>
   <h4 id="2" align="left">Linguagens e Ferramentas</h4> 
