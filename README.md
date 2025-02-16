@@ -19,7 +19,7 @@
       <a href="# "><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Back-end: Java"/></a>
       <a href="# "><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="Front-end: HTML"/></a>
       <a href="# "><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="Front-end: CSS"/></a>
-      <a href="# "><img src="https://img.shields.io/badge/bash%20script-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" title="Bash Script" /></a>        
+      <a href="# "><img src="https://img.shields.io/badge/bash%20script-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" title="Shell Script: Bash" /></a>        
       <a href="# "><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="GNU/Linux" title="Virtualização: GNU/Linux"/></a>
       <a href="# "><img src="https://img.shields.io/badge/VirtualBox%20-%23000070.svg?&style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Box" title="Virtualização: Virtual Box"/></a>
       <a href"# "><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Logo Postman" title="API-client: Postman"/></a>
@@ -40,7 +40,7 @@
   <p>
     <a href="# "><img src="https://img.shields.io/badge/language-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C Language" title="Linguagem de Programação: C" /></a>
     <a href="# "><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="Linguagem de Programação: PHP" /></a>
-    <a href="# "><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" title="Linguagem: PowerShell Script" /></a>
+    <a href="# "><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" title="Shell Script: PowerShell" /></a>
     <a href="# "><img src="https://img.shields.io/badge/batch%20script-121011.svg?style=for-the-badge&logo=batch&logoColor=00ff00" alt="Batch Script" title="Linguagem: Batch Script" /></a>
     <a href="# "><img src="https://img.shields.io/badge/GML-1D1E2C.svg?style=for-the-badge&logo=gml&logoColor=white" alt="GML" title="Linguagem de Programação para Games: Game Maker Language" /></a>
     <a href="# "><img src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="PHP" title="IDE: NetBeans" /></a>
