@@ -8,7 +8,31 @@
   <ul>
   <p>🎓 Especialista em <b>Ethical Hacking and Cybersecurity</b>, Bacharel em <b>Sistemas de Informação</b> e Técnico em <b>Web Design</b><br>
   <p>🛡️ Cursando <b>MBA em Segurança da Informação</b></p>
-  <p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="12"> Focado em <b>Python</b> e <b>SQL</b><br></p> 
+  <p>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="15"> &nbsp;Focado em <b>Python</b> e <b>SQL</b><br></p>
+  <p>
+    <details open>
+      <summary> &nbsp; &nbsp;<b>Cursos finalizados</b> em 2025:</summary>
+        <ul>
+          </br>
+           <li>
+            <b>Trilha de Python</b> - Rocketseat NLW Connect (Bootcamp)
+          </li>
+          </br>  
+          <li>
+            <b>Python Pratices</b> - LinkedIn Learning 
+          </li>
+          </br>  
+          <li>
+            <b>Fundamentos de Python</b> - MEC + IFSC 
+          </li>
+          </br>  
+          <li>
+            <b>Trilha Frontend</b> - Rocketseat NLW Connect (Bootcamp)
+          </li>
+          </br>
+        </ul>
+    </details>
+  </p>
   <p><img src="https://cdn.terminaltrove.com/m/38488c40-b2f2-432b-af8a-91cf0d1ad9b7.png" alt="Hyper Logo" width="20"> Apaixonado por <b>Shells</b>, <b>Virtualização</b>, <b>GNU/Linux</b>, <b>Short Keys</b> e <b>editores de texto</b><br>
   <blockquote>✔️ Power Shell, Bash, Zsh, Dash, Fish, CMD e Windows Terminal. Virtual Machines e WSL 2. Kali, Ubuntu e Parrot. VS Code e VIM.<br></blockquote></p>
   💼 Trabalhei como <b>Suporte nível 2</b> e como <b>Tester</b>. Aprendia constantemente sobre <b>Bancos de dados relacionais</b> e <b>requisições</b>, utilizando-me diariamente de ferramentas como <b>Dev Tools</b>, <b>Postman</b>, <b>DBeaver</b>, <b>VS Code</b> e <b>PowerShell</b>. </p><br>
