@@ -1,6 +1,6 @@
 <div>
   <p align="right">  
-    <a href="https://www.linkedin.com/in/gltm-jrsoftwaredeveloper"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" title="Já se conectou hoje?"/></a>&nbsp;  
+    <a href="https://www.linkedin.com/in/gabe-offensive-security/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" title="Já se conectou hoje?"/></a>&nbsp;  
     <a href="https://github.com/gabrielltmonteiro?tab=followers" title="" alt=""><img src="https://img.shields.io/github/followers/gabrielltmonteiro?label=follow&style=social" height="22" title="Follow me"></a>
   </p>
   <hr>
