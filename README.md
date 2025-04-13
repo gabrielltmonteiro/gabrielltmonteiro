@@ -43,7 +43,7 @@
       <a href="# "><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java" title="Back-end: Java"/></a>
       <a href="# "><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="Front-end: HTML"/></a>
       <a href="# "><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="Front-end: CSS"/></a>
-      <a href="# "><img src="https://img.shields.io/badge/bash%20script-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" title="Shell Script: Bash" /></a>        
+      <a href="# "><img src="https://img.shields.io/badge/bash-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" title="Shell Script: Bash" /></a>        
       <a href="# "><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="GNU/Linux" title="Virtualização: GNU/Linux"/></a>
       <a href="# "><img src="https://img.shields.io/badge/VirtualBox%20-%23000070.svg?&style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Box" title="Virtualização: Virtual Box"/></a>
       <a href"# "><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Logo Postman" title="API-client: Postman"/></a>
