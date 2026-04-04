@@ -73,6 +73,19 @@
     <a href="# "><img src="https://img.shields.io/badge/GitLab%20-14354C.svg?&style=for-the-badge&logo=gitlab" alt="GitLab" title="IDE Online:      GitLab      "/></a>
   </p><br><br><hr>   
 </div>
+
+
+
+<div id="4" align="center">    
+  <h4>GitHub Metrics</h4>
+    <p>
+      <img height="220em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielltmonteiro&theme=tokyonight" alt="GitHub Streak" />
+<!--    </br></br>    
+      <img  height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielltmonteiro&theme=radical alt="GitHub Streak" /> -->      
+</div>
+
+
+<!-- Não funciona mais da mesma forma
 <div id="5" align="left">
   <h4>GitHub Metrics</h4>
   <p>
@@ -82,3 +95,4 @@
       <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielltmonteiro&layout=compact&langs_count=7&theme=radical"/></a>
   </p>
 </div>    
+-->
